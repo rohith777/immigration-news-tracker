@@ -1,0 +1,46 @@
+{
+  "rss_sources": [
+    {
+      "name": "USCIS Newsroom",
+      "url": "https://www.uscis.gov/news/rss-feed/59144",
+      "always_include": true,
+      "always_include_label": "Official USCIS News"
+    },
+    {
+      "name": "Immigration Impact (American Immigration Council)",
+      "url": "https://immigrationimpact.com/feed/",
+      "always_include": false
+    },
+    {
+      "name": "National Law Review - Immigration",
+      "url": "https://natlawreview.com/rss.xml",
+      "always_include": false
+    }
+  ],
+  "reddit_sources": [
+    {
+      "name": "r/immigration",
+      "url": "https://www.reddit.com/r/immigration/new.json?limit=50",
+      "always_include": false
+    },
+    {
+      "name": "r/h1b",
+      "url": "https://www.reddit.com/r/h1b/new.json?limit=50",
+      "always_include": false
+    }
+  ],
+  "federal_register": {
+    "name": "Federal Register (official rules & notices)",
+    "base_url": "https://www.federalregister.gov/api/v1/documents.json",
+    "agencies": ["citizenship-and-immigration-services", "labor-department", "state-department"],
+    "per_page": 40,
+    "always_include": true,
+    "always_include_label": "Federal Register"
+  },
+  "notes": [
+    "Any source can be removed by deleting its entry, or disabled by setting 'always_include' appropriately.",
+    "'always_include': true means items from that source are kept even if they don't match one of the H-1B/F-1/I-140/PERM/Green Card keyword categories below (tagged with 'always_include_label' instead).",
+    "If a feed URL ever breaks (site redesign, etc.), the scraper logs a warning for that source and continues with the rest - it will not fail the whole run.",
+    "Feed URLs like natlawreview.com/rss.xml and reddit .json endpoints are unauthenticated public endpoints; if one stops working, just update or remove it here."
+  ]
+}

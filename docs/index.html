@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Visa Ledger — H-1B, F-1, I-140, PERM &amp; Green Card news</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-title">
+      <span class="stamp">VL</span>
+      <div>
+        <h1>Visa Ledger</h1>
+        <p class="tagline">H-1B · F-1 / OPT · I-140 · PERM · Green Card — tracked and sourced</p>
+      </div>
+    </div>
+    <div class="masthead-meta">
+      <span id="updated-at">Loading feed…</span>
+      <span id="item-count"></span>
+    </div>
+  </div>
+</header>
+
+<nav class="filters" id="filters" aria-label="Filter by category">
+  <!-- category buttons injected by app.js -->
+</nav>
+
+<div class="toolbar">
+  <input id="search" type="search" placeholder="Search headlines and summaries…" aria-label="Search news">
+</div>
+
+<main id="feed" class="feed">
+  <p class="loading">Fetching the latest updates…</p>
+</main>
+
+<footer class="site-footer">
+  <p>
+    Aggregated automatically from public sources (USCIS Newsroom, the Federal Register,
+    immigration law/policy outlets, and community discussion). Every item links back to
+    where it came from — this is a personal news tracker, not legal advice.
+  </p>
+  <p class="build-note">Refreshed on a schedule by a GitHub Action. <a href="https://github.com/" id="repo-link">View source</a>.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "generated_at": null,
+  "item_count": 1,
+  "items": [
+    {
+      "id": "seed0000000000",
+      "title": "Welcome to Visa Ledger",
+      "summary": "This is placeholder content. Run the 'Update immigration news' GitHub Action once (Actions tab \u2192 select it \u2192 Run workflow) to pull real, sourced H-1B/F-1/I-140/PERM/Green Card news and replace this file.",
+      "url": "https://github.com/",
+      "source_name": "Setup note",
+      "published": null,
+      "categories": ["Setup"]
+    }
+  ]
+}
