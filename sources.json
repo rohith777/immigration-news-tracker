@@ -17,6 +17,38 @@
       "always_include": false
     }
   ],
+  "google_news_sources": [
+    {
+      "name": "Google News - H-1B",
+      "query": "H-1B visa",
+      "category": "H-1B",
+      "always_include": true
+    },
+    {
+      "name": "Google News - F-1/OPT/student visa",
+      "query": "F-1 visa OR OPT visa OR international student visa",
+      "category": "F-1 / OPT / CPT",
+      "always_include": true
+    },
+    {
+      "name": "Google News - Green Card / I-140",
+      "query": "green card I-140 OR employment based green card",
+      "category": "Green Card",
+      "always_include": true
+    },
+    {
+      "name": "Google News - PERM",
+      "query": "PERM labor certification visa",
+      "category": "PERM",
+      "always_include": true
+    },
+    {
+      "name": "Google News - immigration policy (general)",
+      "query": "H-1B OR immigration executive order OR visa fee",
+      "category": null,
+      "always_include": false
+    }
+  ],
   "reddit_sources": [
     {
       "name": "r/immigration",
@@ -41,6 +73,8 @@
     "Any source can be removed by deleting its entry, or disabled by setting 'always_include' appropriately.",
     "'always_include': true means items from that source are kept even if they don't match one of the H-1B/F-1/I-140/PERM/Green Card keyword categories below (tagged with 'always_include_label' instead).",
     "If a feed URL ever breaks (site redesign, etc.), the scraper logs a warning for that source and continues with the rest - it will not fail the whole run.",
-    "Feed URLs like natlawreview.com/rss.xml and reddit .json endpoints are unauthenticated public endpoints; if one stops working, just update or remove it here."
+    "Feed URLs like natlawreview.com/rss.xml and reddit .json endpoints are unauthenticated public endpoints; if one stops working, just update or remove it here.",
+    "google_news_sources use Google News' public RSS search (news.google.com/rss/search) - this is how mainstream coverage (Reuters, AP, Bloomberg, WSJ, NYT, etc.) shows up, since none of those outlets publish a plain immigration-topic RSS feed of their own. Their 'category' is forced onto every result from that query (set to null to rely on keyword tagging instead). Links point through a Google News redirect that lands on the original article - that's normal and still counts as a citation to the original outlet, shown via the article's real headline and source name.",
+    "Reddit sometimes rate-limits requests coming from GitHub Actions' shared IP ranges (HTTP 429). If r/immigration or r/h1b show up empty in the Action logs, that's Reddit throttling, not a bug - Google News + USCIS + Federal Register are the more reliable backbone."
   ]
 }

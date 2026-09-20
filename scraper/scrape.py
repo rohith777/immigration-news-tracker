@@ -22,6 +22,7 @@ import hashlib
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from html import unescape
+from urllib.parse import quote
 
 import requests
 import feedparser
@@ -160,6 +161,70 @@ def fetch_rss(source):
     return items
 
 
+def fetch_google_news(source):
+    """Google News RSS search - this is what surfaces mainstream coverage
+    (Reuters, AP, Bloomberg, WSJ, NYT, etc.) since those outlets don't run
+    their own topic-specific immigration RSS feeds. Every result already
+    matched the search query, so these are tagged with the query's forced
+    'category' (falling back to keyword matching if category is null)."""
+    name = source["name"]
+    query = source["query"]
+    forced_category = source.get("category")
+    always = source.get("always_include", False)
+    items = []
+    try:
+        url = f"https://news.google.com/rss/search?q={quote(query)}&hl=en-US&gl=US&ceid=US:en"
+        resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        parsed = feedparser.parse(resp.content)
+        if parsed.bozo and not parsed.entries:
+            raise ValueError(f"feedparser could not parse content (bozo={parsed.bozo_exception})")
+        for entry in parsed.entries:
+            raw_title = strip_html(entry.get("title", "")).strip()
+            link = entry.get("link", "").strip()
+            if not raw_title or not link:
+                continue
+
+            # Google News titles are usually "Headline - Publisher Name".
+            # Prefer the structured <source> tag for the publisher when present.
+            src_field = entry.get("source")
+            publisher = None
+            if isinstance(src_field, dict):
+                publisher = strip_html(src_field.get("title", "")).strip() or None
+            title = raw_title
+            if publisher and title.endswith(publisher):
+                title = title[: -len(publisher)].rstrip(" -\u2013\u2014").strip()
+            elif not publisher and " - " in raw_title:
+                title, _, maybe_publisher = raw_title.rpartition(" - ")
+                publisher = maybe_publisher.strip()
+            publisher = publisher or "Google News"
+
+            raw_summary = entry.get("summary", "") or entry.get("description", "")
+            summary = truncate(strip_html(raw_summary))
+            published = entry.get("published") or entry.get("updated")
+            pub_dt = parse_date_safe(published)
+
+            cats = categorize(title, summary)
+            if forced_category and forced_category not in cats:
+                cats.append(forced_category)
+            if not cats and not always:
+                continue
+
+            items.append({
+                "id": make_id(link, title),
+                "title": title,
+                "summary": summary,
+                "url": link,
+                "source_name": publisher,
+                "published": pub_dt.isoformat() if pub_dt else None,
+                "categories": cats,
+            })
+        log(f"OK   GNEWS {name}: {len(items)} matching items ({len(parsed.entries)} total entries)")
+    except Exception as e:
+        log(f"WARN GNEWS {name}: skipped due to error: {e}")
+    return items
+
+
 def fetch_reddit(source):
     name = source["name"]
     url = source["url"]
@@ -252,6 +317,10 @@ def main():
 
     for src in config.get("rss_sources", []):
         all_items.extend(fetch_rss(src))
+        time.sleep(0.5)
+
+    for src in config.get("google_news_sources", []):
+        all_items.extend(fetch_google_news(src))
         time.sleep(0.5)
 
     for src in config.get("reddit_sources", []):
