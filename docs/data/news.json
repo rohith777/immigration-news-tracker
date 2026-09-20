@@ -1,15 +1,314 @@
 {
-  "generated_at": null,
-  "item_count": 1,
+  "generated_at": "2026-09-20T00:21:09+00:00",
+  "item_count": 28,
   "items": [
     {
-      "id": "seed0000000000",
-      "title": "Welcome to Visa Ledger",
-      "summary": "This is placeholder content. Run the 'Update immigration news' GitHub Action once (Actions tab \u2192 select it \u2192 Run workflow) to pull real, sourced H-1B/F-1/I-140/PERM/Green Card news and replace this file.",
-      "url": "https://github.com/",
-      "source_name": "Setup note",
-      "published": null,
-      "categories": ["Setup"]
+      "id": "3f558854a49526e7",
+      "title": "Five Defendants Charged with Defrauding and Exploiting H-2A Visa Program to Smuggle Aliens into the United States",
+      "summary": "U.S. Citizenship and Immigration Services (USCIS) supported a federal investigation that resulted in the indictment of five people for their roles in a scheme to exploit a nonimmigrant visa worker program. The defendants fraudulently obtained worker visas and smuggled aliens into the United States. The U.S. Attorney...",
+      "url": "https://www.uscis.gov/newsroom/news-releases/five-defendants-charged-with-defrauding-and-exploiting-h-2a-visa-program-to-smuggle-aliens-into-the",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-18T19:54:56+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "64859e2b0e50dd36",
+      "title": "Immigration Attorney Arrested in Alleged Fraud Scheme",
+      "summary": "U.S. Citizenship and Immigration Services provided pivotal assistance to an investigation leading to the indictment and arrest of a Houston area immigration attorney.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/immigration-attorney-arrested-in-alleged-fraud-scheme",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-17T20:16:03+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "983415069e5b1ae9",
+      "title": "Peruvian Alien Indicted for Illegally Voting",
+      "summary": "A federal grand jury in Wichita indicted a Peruvian alien with multiple criminal offenses arising from allegedly voting in a federal election despite not being a U.S. citizen.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/peruvian-alien-indicted-for-illegally-voting",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-14T20:20:16+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "0cbe8a8580281e23",
+      "title": "Department of Justice Removes Alien Terrorist in First Use of United States Alien Terrorist Removal Court",
+      "summary": "In the first-ever case before the United States Alien Terrorist Removal Court (ATRC), Nazira Haji Zada, 47, an Afghan national previously residing in Fort Worth, Texas, was removed from the United States after conceding that she is an alien terrorist.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/department-of-justice-removes-alien-terrorist-in-first-use-of-united-states-alien-terrorist-removal",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-11T18:38:55+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "767f391d7a79a79c",
+      "title": "USCIS Reaches H-2B Cap for First Half of FY 2027",
+      "summary": "U.S. Citizenship and Immigration Services received enough petitions to meet the congressionally established H-2B cap for the first half of fiscal year (FY) 2027.",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-reaches-h-2b-cap-for-first-half-of-fy-2027",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-11T13:40:20+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "17c7dff027736a56",
+      "title": "DHS Announces Rule for Certain Children Born in the United States to Foreign Government Employees",
+      "summary": "The Department of Homeland Security today issued an interim final rule amending its regulations to allow certain children born in the United States to foreign government employees who are not U.S. citizens to register as lawful permanent residents.",
+      "url": "https://www.uscis.gov/newsroom/alerts/dhs-announces-rule-for-certain-children-born-in-the-united-states-to-foreign-government-employees",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-04T22:26:12+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "ccd5169889933567",
+      "title": "Court Order on Diversity Immigrant Visa Program Hold Policy",
+      "summary": "On Aug. 28, 2026, the U.S. District Court for the Northern District of California issued an order in Medani, et al., v. Trump, et al., 26-cv-6332 (NDCA), temporarily vacating PM-602-0193 pending further litigation. USCIS is ordered, “to the extent practicable and in good faith, to take all reasonable steps during the...",
+      "url": "https://www.uscis.gov/newsroom/alerts/court-order-on-diversity-immigrant-visa-program-hold-policy",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-04T17:40:27+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "df6c9693284d7d6d",
+      "title": "Naturalized U.S. Citizen Indicted for Lying to Obtain U.S. Citizenship After Committing Felonies",
+      "summary": "A naturalized U.S. citizen made his initial appearance in court Sept. 2 for allegedly lying about his prior criminal acts to obtain U.S. citizenship. The U.S. Attorney's Office for the District of Nevada announced the charges.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/naturalized-us-citizen-indicted-for-lying-to-obtain-us-citizenship-after-committing-felonies",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-03T18:36:10+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "f06b5ebc298c8116",
+      "title": "USCIS Opens New International Field Office in Ethiopia to Support Fraud Prevention",
+      "summary": "U.S. Citizenship and Immigration Services (USCIS) is opening a new international field office in Addis Ababa, Ethiopia. The office will begin operations on September 9, 2026, and will handle USCIS immigration matters in Ethiopia.",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-opens-new-international-field-office-in-ethiopia-to-support-fraud-prevention",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-03T18:15:27+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "fb490c061a305f8b",
+      "title": "Illegal Alien Indicted in Marriage-Related Immigration Fraud",
+      "summary": "U.S. Citizenship and Immigration Services played a critical role in the investigation that led to the indictment of Miguel Angel Olivera‑Borda, 38, a Peruvian alien illegally present in the United States, after federal prosecutors presented evidence to a grand jury.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/illegal-alien-indicted-in-marriage-related-immigration-fraud",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-03T13:57:11+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "33abde180ba409a5",
+      "title": "Aunt and U.S. Airman Nephew Arrested in Immigration Fraud Scheme",
+      "summary": "Defendants allegedly lied about their relationship to obtain immigration benefits",
+      "url": "https://www.uscis.gov/newsroom/news-releases/aunt-and-us-airman-nephew-arrested-in-immigration-fraud-scheme",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-09-02T16:31:51+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "476006c6dc9c3b72",
+      "title": "Recent Court Order on Hold Policies",
+      "summary": "On Aug. 24, 2026, the U.S. District Court for the Northern District of California issued an order in Red Eagle Law, L.C., et al., v. Joseph B. Edlow, 26-cv-04850-CRB (NDCA), enjoining PM 602-0192, and PM 602-0194.",
+      "url": "https://www.uscis.gov/newsroom/alerts/recent-court-order-on-hold-policies",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-28T18:23:49+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "96833d027a7bb3c1",
+      "title": "DHS Proposes Additional H-1B Fee",
+      "summary": "The Department of Homeland Security (DHS) is proposing to establish a $103,265 fee for all H-1B cap-subject petitions, including those eligible for the advanced degree exemption.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/dhs-proposes-additional-h-1b-fee",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-24T17:50:23+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "9def7da14a092d53",
+      "title": "Chinese Alien Charged with Voter Fraud in Massachusetts",
+      "summary": "A Chinese alien residing in Andover, Mass., was arrested for submitting a fraudulent voter registration and ballot in the 2024 presidential election using the name of another Chinese alien.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/chinese-alien-charged-with-voter-fraud-in-massachusetts",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-21T19:07:40+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "751af6521ec3e152",
+      "title": "USCIS to Publish New Edition of Form I-485; Older Editions Will Be Rejected Starting Sept. 18",
+      "summary": "On Sept. 18, 2026, USCIS will publish a revised edition of Form I-485, Application to Register Permanent Residence or Adjust Status (edition date: 09/18/26).",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-publish-new-edition-of-form-i-485-older-editions-will-be-rejected-starting-sept-18",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-19T13:21:45+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "65275dff9586f680",
+      "title": "Cuban Alien Pleads Guilty to Role in International Alien Smuggling, Asylum Fraud, and Money Laundering Conspiracy",
+      "summary": "U.S. Citizenship and Immigration Services played a critical role in an investigation that resulted in a Cuban national pleading guilty to alien smuggling, asylum fraud, and money laundering.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-pleads-guilty-to-role-in-international-alien-smuggling-asylum-fraud-and-money-laundering",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-18T18:01:25+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "67234eb0b579a150",
+      "title": "USCIS Issues Guidance on Making Public Charge Inadmissibility Determination",
+      "summary": "U.S. Citizenship and Immigration Services (USCIS) is issuing updated guidance in the USCIS Policy Manual explaining how the agency will determine whether an alien applying for adjustment of status to that of a lawful permanent resident is likely at any time to become a public charge.",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-issues-guidance-on-making-public-charge-inadmissibility-determination",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-18T14:14:09+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "71f4ed9a5736e8b7",
+      "title": "USCIS Plays Key Role in Takedown of Decade-Long Marriage Fraud Ring",
+      "summary": "U.S. Citizenship and Immigration Services played a key role in the indictment unsealed today charging 11 individuals with conspiring, over the course of more than a decade, to orchestrate more than 1,000 sham marriages.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/uscis-plays-key-role-in-takedown-of-decade-long-marriage-fraud-ring",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-12T21:08:07+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "4ea49aaad2d7fd87",
+      "title": "Denaturalization Case Filed Against Man Who Procured U.S. Citizenship Under False Identity",
+      "summary": "U.S. Citizenship and Immigration Services provided crucial support to an investigation resulting in charges to denaturalize a man born in India for using a false identity to become a U.S. citizen.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/denaturalization-case-filed-against-man-who-procured-us-citizenship-under-false-identity",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-12T19:44:31+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "c57d15a496e9fc9c",
+      "title": "Miami Man Charged With Defrauding U.S. Immigration System as Part of a National Health Care Takedown",
+      "summary": "U.S. Citizenship and Immigration Services played a key role in an investigation resulting in federal charges against Eduardo Javier Ibarra Arrowsmith, 61, of Miami.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/miami-man-charged-with-defrauding-us-immigration-system-as-part-of-a-national-health-care-takedown",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-11T19:46:05+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "efb9679e7e6e957a",
+      "title": "Justice Department Files Record 25 Denaturalization Cases Against Naturalized Criminals Including Attempted Murderers, Spousal Abusers, and Child Sex Offenders",
+      "summary": "U.S. Citizenship and Immigration Services partnered with the Department of Justice in its filing of denaturalization actions against 25 individuals accused of serious offenses, including attempted first-degree murder and assault with a deadly weapon with intent to kill, assault and battery of a high and aggravated...",
+      "url": "https://www.uscis.gov/newsroom/news-releases/justice-department-files-record-25-denaturalization-cases-against-naturalized-criminals-including",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-11T19:44:20+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "276d5d472377825a",
+      "title": "USCIS To Require Electronic Filing of Forms: Strengthening National Security",
+      "summary": "The Department of Homeland Security (DHS) is introducing an interim final rule (IFR) that allows U.S. Citizenship and Immigration Services (USCIS) to mandate electronic filing, or e-filing, for certain immigration forms.",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-require-electronic-filing-of-forms-strengthening-national-security",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-10T12:55:58+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "633482458d91c646",
+      "title": "USCIS Identity Checks Lead to Arrest of Former Latvian Reality TV Contestant with Violent Criminal History",
+      "summary": "U.S. Citizenship and Immigration Services’ robust screening and vetting uncovered an illegal alien and former reality TV contestant from Latvia with a criminal history that includes sexual battery, aggravated assault, and drug possession.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/uscis-identity-checks-lead-to-arrest-of-former-latvian-reality-tv-contestant-with-violent-criminal",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-06T17:30:24+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "40ecc39e73cfe2d4",
+      "title": "USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
+      "summary": "U.S. Citizenship and Immigration Services (USCIS) is clarifying that benefit requestors should establish eligibility for an immigration benefit at the time they file a benefit request.",
+      "url": "https://www.uscis.gov/newsroom/alerts/uscis-to-reduce-frivolous-immigration-benefits-requests-by-reinforcing-evidence-standards",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-05T18:41:49+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "ca9ec13f85411095",
+      "title": "Mexican Alien Sentenced for Fraud Conspiracy",
+      "summary": "A Mexican alien in the Kansas City area was sentenced in federal court for his role in helping illegal aliens fraudulently obtain visas allowing them to reside and work in the United States.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/mexican-alien-sentenced-for-fraud-conspiracy",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-08-04T14:04:40+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "399e965661e202d3",
+      "title": "Cuban Alien Sentenced for Role in International Alien Smuggling, Asylum Fraud, and Money Laundering Conspiracy",
+      "summary": "U.S. Citizenship and Immigration Services played a critical role in an investigation that resulted in the sentencing of Cuban alien Erik Ventura-Castro, 24, of Hialeah, Florida, to 30 months in prison for his role in an international alien smuggling, asylum fraud, and money laundering conspiracy.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/cuban-alien-sentenced-for-role-in-international-alien-smuggling-asylum-fraud-and-money-laundering",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-07-30T19:19:32+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "82a385d5ca8d559e",
+      "title": "USCIS Announces Rule Change to Asylum System to Reduce Backlog",
+      "summary": "The United States Department of Homeland Security (DHS) released the following statement after U.S. Citizenship and Immigration Services (USCIS) announced a rule change designed to reduce the backlog in the asylum system.",
+      "url": "https://www.uscis.gov/newsroom/news-releases/uscis-announces-rule-change-to-asylum-system-to-reduce-backlog",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-07-27T13:39:28+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
+    },
+    {
+      "id": "d0e790e9ec677118",
+      "title": "DHS and Department of Justice Announce Move to Revoke U.S. Citizenship from 10 Naturalized Criminals Including Child Molesters, Scammers, and Drug Dealers",
+      "summary": "U.S. Citizenship and Immigration Services assisted the Department of Justice (DOJ) with several recent denaturalization actions in U.S. district courts to revoke citizenship from 10 individuals accused of serious crimes, including sexual abuse of a child, health care and wire fraud, immigration fraud, and conspiracy...",
+      "url": "https://www.uscis.gov/newsroom/news-releases/dhs-and-department-of-justice-announce-move-to-revoke-us-citizenship-from-10-naturalized-criminals",
+      "source_name": "USCIS Newsroom",
+      "published": "2026-07-22T18:38:01+00:00",
+      "categories": [
+        "Official USCIS News"
+      ]
     }
   ]
 }
