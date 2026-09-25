@@ -1,14 +1,58 @@
 {
-  "generated_at": "2026-09-25T11:54:15+00:00",
-  "item_count": 275,
+  "generated_at": "2026-09-25T17:14:50+00:00",
+  "item_count": 276,
   "items": [
     {
-      "id": "f8e4f0e34f7ae1ff",
-      "title": "US Extends $100,000 H-1B Fee Policy: Know What Changes and What Doesn't for International Students",
-      "summary": "US Extends $100,000 H-1B Fee Policy: Know What Changes and What Doesn't for International Students Education Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSExHQVM1YVQ1V2lVNjY2Vkd2dmQyWlhQZkU4VW9FM0RVWkFaaXROTkU2RlkzdnhHZXJfTVU4SURSZHB6QnVmdXMtQU5oVnhtWV9HWXpnS082cERNdE9sb2xVSFNMZC0zUzFESmV5cXRYaXVvMG9tVWVYRmZoc3RrOTVRbHdVT0VISVRGb1pJVV94MUNMSHM3Qmp1bURxbUFXN1o0LWZJVnZGN3dXUWRkd3RCVmlwQno0blZhSW9SQ1dheWxpTkZ0QjFFOG80VnBpaTI3LUtXUEU5QmtJUEtjN2NjdGNsMlpXS0YwNi16b2pwQ2NmY19J?oc=5",
-      "source_name": "Education Times",
-      "published": "2026-09-25T11:30:00+00:00",
+      "id": "dd7c091a5f0f71f6",
+      "title": "Presidents’ Alliance Submits Comments on DHS's Proposed Rule to Impose Fee for Certain H-1B Petitions",
+      "summary": "Presidents’ Alliance Submits Comments on DHS's Proposed Rule to Impose Fee for Certain H-1B Petitions The Presidents' Alliance on Higher Education and Immigration",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTllPcUNwellEeS1xVGpYdlJReFlOVDZWYkJPdGZKakpzZEVPWEFrbVBkVU9ITmRoN28tMlZqY3A4d3BhUWhIaEdkWHFkR013WE9OLThCLXNob2hlVWhUZm1hQXpYTVNtaG5lN3lOQ2ViNERNTFNiWjF1VWJJZllRQjFiME5kSXp5ZjcwcEp3Vm5Ib0oweTR4RXU3OC1xVFpDQ2hGN3QwOGNENW1BQkxiaDlmdFNDem00QTNrWnRLUklKdVVubnQ1UnF5aXg2di1R?oc=5",
+      "source_name": "The Presidents' Alliance on Higher Education and Immigration",
+      "published": "2026-09-25T15:54:03+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "2481197bef96ff4d",
+      "title": "Banning H-1B teachers is a recipe for disaster",
+      "summary": "Banning H-1B teachers is a recipe for disaster The Hill",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLWGQwaDk5RkJubllvMXJFTlFRd2FuMXdXdFJwOEhWeDZZTWVmLVZmcVV2Q2k3SzFDQi1LQ0RyZlRKd002QU9VUHpuamdLalVTUEZMMjR1T0g2VGFMNlFWVjRaU0VvZWMzcU1YOVdnS0l5WTF0REYyb9IBfkFVX3lxTFBjWFZzOXNmNndkQ2hMTlltNGdiTmlRekdkbTdoanYzWHgzMlcyTVUyWVZPOGtoSmNISmNmVFUtVENtQkRPQ0ZUNU1nS0JtdkFMMGJQZlp3UVdLN2dLb2JBUl9lVzhNWHRoRDU2YV9DSHBQR19oUzhGVHQ4bVdSZw?oc=5",
+      "source_name": "The Hill",
+      "published": "2026-09-25T15:30:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "54405e45a782de13",
+      "title": "US Bill Could Reshape Green Card System, Affect Indian Professionals",
+      "summary": "US Bill Could Reshape Green Card System, Affect Indian Professionals INDIA New England News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFQwelctQ0tfWWh5aWtXTzNfb2VhZUlFRHlQQ0hrYjJTeUwtZTdqRmJzclI0VXZ3SmNvRUVvRWYyTXp3dGxZa0labmU0S3BOQ3FyLWFuRExlTXB1MHVkN2hKSWFzdzA5ZmxrUkE5RXBLRjdEUmpJSEUyU1dOb3c0UWV6TmJ2MS1QdVZpVUdkT3MzbnVDV09vWUlOWXE?oc=5",
+      "source_name": "INDIA New England News",
+      "published": "2026-09-25T14:59:09+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "2329f14aff12d05f",
+      "title": "Big Tech pushes back on Trump administration’s proposed $103,265 H-1B fee",
+      "summary": "Big Tech pushes back on Trump administration’s proposed $103,265 H-1B fee The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT21VRTFtajNxanhNOVI2QXJ2bERXS3luS3IxZ0pDLU1XQ3YtdWR4WlFJdHZzcmhaYkFHYnpUWWF6cjdoNW51aF9RV3Exem5tMmdTWEVJMlFTbEh4Z0duY3dXU2J2NzMwQUFFWlpfX1ppa1d1dUVBQW91b2JzeEdHN2s4N2lEWFJoVzhhOWZFMTUySU1raGhCTzh2eGdMTTZRcXZLQlhWakxJczQ?oc=5",
+      "source_name": "The American Bazaar",
+      "published": "2026-09-25T14:46:15+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "8378211d47983313",
+      "title": "Trump's H-1B Visa Fee Could Cost US $38 Billion Over 10 Years, Say Tech Firms | Firstpost Live",
+      "summary": "Trump's H-1B Visa Fee Could Cost US $38 Billion Over 10 Years, Say Tech Firms | Firstpost Live Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNWRCOG5QS0xvMDRoQklDRWR3OG40Ykt6bXN4RFNSdENLa25TNlU2T2Y5b2taQnVnd09YOS16Tjlyc1hlNTBEYUhCMC14SVZ0MklnRXNTVUN1WFBfVGhpZGthczMtUDY0ODRjWmFMdjN2RFkyQ3FwM3FqR1BlcXdmNFpSSFFoWjNqTmgzQndRTE9ldkl3SnMzWms5VWhMVUNIcmxncUhucjNhUWl6cFJwTG5PZU5xNTJBYlJIYkF0amg4LWtjdnFId0dkUWpIZ2xSLXlHYkxZd0k0a3F6OW1ZdmpwVlM5Q19J0gHuAUFVX3lxTFBRei1oN3JpeTdVcWMtSzN2TkFpUXg5amZQSGhSaHZoOWo5MWJOZDRZb1dKczlmWnhkejMwZWhPT1hudC1Jamw4LUxaV01lNEFrR0k5dEhoQk5OTHN3OTBRSlF3em9iMElqaEM5QldXeVZvYUthQzk2STZ2VTU0a3ZKb0FaWUd3WEROY0FRZV9WUXZjdV9PeTV5MktsNF9KSkhYRGVueEU5MFBWQjdBU1VHWTl5eXNYX29BUEpHVmtfX3pBRHRrN3pLSUswbk94bHA0ODRnS2sycTlEUWkxUWNQQmtoZ00yMklVUFlTTmc?oc=5",
+      "source_name": "Firstpost",
+      "published": "2026-09-25T11:29:56+00:00",
       "categories": [
         "H-1B"
       ]
@@ -27,9 +71,9 @@
     {
       "id": "dc230cd7293a1000",
       "title": "New Senate Bill Seeks Major US Green Card Shake-Up",
-      "summary": "New Senate Bill Seeks Major US Green Card Shake-Up newsweek.com",
+      "summary": "New Senate Bill Seeks Major US Green Card Shake-Up Newsweek",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFlqdXdfUndfeGhvWUpOUWtab1Bzd2pxb2lTYWNOcDgtenZGRDJZVUVZc1pZX2UtelpNRENqaEN4VFdTNW1zRWtMTVVKamZCaG9jX0NCVVowMUFGNDFVYjBDejVmZ01xS0thaW9YSlVmM19oWU14cVE1ZmhRNGdGNUZsSUM0UDJ0Q1A3LQ?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-09-25T11:00:00+00:00",
       "categories": [
         "Green Card"
@@ -53,17 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlA2QUlhLUxjUGRScXFtN3BlbjJfMFVyRUNodEZXZ1hIcFBNaFNYVUlmRTJBRFdBR29hMng3OHR3TkppQlRmVG1obFptOEkzMW42TzRTR3JROUJlbG5mc21DbjJfV3BIc0ZkbEIyanBLa2VQMkZYREVxYTZUSWN4UVJzeEcyQWUxclcxQlhMcEhaYVdv?oc=5",
       "source_name": "Cato Institute",
       "published": "2026-09-25T05:21:36+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
-      "id": "505a44f2a41bb078",
-      "title": "‘We’re not going to let you...’: JD Vance issues fresh H-1B warning to US companies",
-      "summary": "‘We’re not going to let you...’: JD Vance issues fresh H-1B warning to US companies Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOekFwLTd3QnNxMG9hSjNqT3VRSWxIWWRKWHJReEhvOTlxQzQyLUd3T3NJd29wUXJMb2NqYk1UZVltZ29oT29MNjJUenFaVXBTaXE2S1ZQeW9kdnZnZ0RkeEptT1NDN2JQVm1MOWpRbXlHQTJpWGpZWENZMHJiU01FM3dKbGFqYjNUa2JrYXl6dmN0LWtXcWFjU01lRDluM29zcnN6LXEzYVdpckNDQ2hCbnRCN1RnTXVoU3dFSGlfbzVQQUs5T3gydUVpTW9mQV9Gc0hhWtIB2gFBVV95cUxPdGd0aWc2Sk1JSTdndUVuTks4OVZhODl0eHZMRkhudkNPVzc3bnVhQzIwUlItbDl4cDVaQzdOVDNnUUU2RzJQZTFRcVZfclFIMVd2Rlp4RERkclhacnRfWXZsM3NMQWFDaFY2T1ZPVzRLOE9NOURKdWkxYldNbG1mS2dPV0JaY1haSnNYWW1kbW9FdzJWa09sUldtMjE0dXQxOHM4eFA3YkdDMlF6T01ibEZQczFWV3pzZ2syUWlrUGdoa21lVWNnSUZIQU1HbzVxbjlFODdsaVIyQQ?oc=5",
-      "source_name": "Business Today",
-      "published": "2026-09-25T04:58:33+00:00",
       "categories": [
         "H-1B"
       ]
@@ -173,7 +206,7 @@
       "summary": "Universities hire legions of H-1B workers, lawmakers advance legislation to rein in ‘visa scam’ Campus Reform",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMVBkSW5IUk03X0ZoY3ZETWxHbnlZNWY4S1lfQXg2Y0FxamhVMWd2MXk2VDVaOGpacFBFdVlFODFuVmRwQjJKaDI5VkRTb2t4YWtaUHhLdGk3R1lsNHVfb09pMC1TY3k5UWZjWVFkZGRQaXZqNm53VWdyUm5PYXZ2UmZ3d0tDeTc2NUI1VExBRkRiN09vS05vM1lkd3FINy0xSXNqQnpuYVhjMTFCTjBEMFR4RjZaZER2M2lDckF6VHRuWjZi?oc=5",
       "source_name": "Campus Reform",
-      "published": "2026-09-24T16:02:00+00:00",
+      "published": "2026-09-24T16:02:25+00:00",
       "categories": [
         "H-1B"
       ]
@@ -267,11 +300,22 @@
       ]
     },
     {
+      "id": "9ef0878c77bccd55",
+      "title": "Tech industry group urges Trump administration to drop $103,265 H-1B fee proposal, asks how Silicon Valle",
+      "summary": "Tech industry group urges Trump administration to drop $103,265 H-1B fee proposal, asks how Silicon Valle The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWNSSnV3Z2NGbE5VcW1FS1JnYllXd1k3NVUzMURhWW5IenV1Qm5xLUhvUmIta2FvWlVjV3dIRWJobWRJVHZnY3k3UFN6ZjhPSk5uaGxpc0lzY0VZYjVJdS1KTFdnUDR1c195WHRxZmNoTy0wVkh2TU5pNkptNFlkR1lNcXd2dU1xbk9abEVDTk5uSzlFeG9BZms1dkNlS2NEMHczaEczc0FWWGFYWTJWZzMtMG9MT2daUnhrX2VIa3dLWEhhRHpiQzFieEZJVF8ySk9ubTE0bXp2TDVjSHVYV1ppbVN4LWl5QzA3S3R2dm5wY3FzbEt6VExBcGk0T1ZtVTZTbnduWFM1LWFSaTJzcC1CdXV6eERRZVhmV0xOeGlQd9IBpwJBVV95cUxNWW5sYUVOc1hIaC1YX1ZfWTJrZTU0bjJMX1Q4OGREUEZNdmk2dDJNN2l5MGNzZGhaVnNpa00yZ216NHMtWkxzeGpTUmdFY3ptekZubWp4R0ZDRjcyMkszRzgwV29pd0Z5N2MtQmpEdDdFd1hOSnRudjFvMXlTcEN0Q2hlMy1BSkF0ZzJwOFBoWW5XZFI0di1ubzVGVVhIU1c4TGNNUXQ5bTNrSDB2aFg4alZ1bng2UzBYUDBfZVplVFNtaGFJS0xkLU8zdUo5dEhWT0ROOXFHSTlXY1F1VGRmY1QybjIzemFGVkdIb3dIa1VDRnpud2RPNmR3Vmo2WmN0TzBhdEpJcHp3QjhsTUxXd2pVS2tmbGstUGkyMnIwU1J4UWRaR3A4?oc=5",
+      "source_name": "The Times of India",
+      "published": "2026-09-24T13:05:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
       "id": "160fd2062d370818",
       "title": "H-1B Visa Fee Could Cost US $38 Billion Over 10 Years: Tech Firms",
-      "summary": "H-1B Visa Fee Could Cost US $38 Billion Over 10 Years: Tech Firms newsweek.com",
+      "summary": "H-1B Visa Fee Could Cost US $38 Billion Over 10 Years: Tech Firms Newsweek",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3ZnVHV4bVlKMzdYU1hoTld3cVdpbTNlSFlJOGVORUFyUjVJSUF5cktrTlVhUVl1aEFxb1FTSG93bWJnWDVzdk5IaEdMdHRIWXRVNkVCX2Y5SmlWcWVNTzFfUk5Za0FyVzNXWUpXQm1sRm5KZnNDMktRRjJ3NTBFQ0VuV1cyN2l3eHFwUnR0WmJfY0UzVmFKS3ZoSjk3UQ?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-09-24T11:46:00+00:00",
       "categories": [
         "H-1B"
@@ -302,7 +346,7 @@
     {
       "id": "e51419db7f659c99",
       "title": "Exclusive | Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee",
-      "summary": "Exclusive | Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee WSJ Tech industry group urges Trump administration to drop $103,265 H-1B fee proposal, asks how Silicon Valle The Times of India Trump Enacts New Immigration Policies Against H-1B Visa Holders Forbes",
+      "summary": "Exclusive | Tech Industry Calls on Trump Administration to Withdraw New H-1B Visa Fee WSJ",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGh2blFlSDBXbkIyTFh6Z0tIRFJDc181dzFfX2VSVTBzaTMwV0ltMmhwTHNWUUhPWndhejI0R2w0eUFIQ3phOW5EZzktYU5vM0VQMXZUT1lJMEpMR3VGS2NUalRIMjMzcThrNi14bGlvVEIzUFhlLVNDMWZVX2tNN2h1RGJKNlpscHNabUtzb25HZlJOSFVSdF96b3pCdmh1Yzk1TlctWUdzNGlTT1pIVnRqc1R0aVRFckE?oc=5",
       "source_name": "WSJ",
       "published": "2026-09-24T09:00:00+00:00",
@@ -311,11 +355,22 @@
       ]
     },
     {
+      "id": "80aef8c59a498c43",
+      "title": "Policy Backgrounder: H-1B Restrictions and Employer Enforcement: Recent Developments",
+      "summary": "Policy Backgrounder: H-1B Restrictions and Employer Enforcement: Recent Developments The Conference Board",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV09iNktoLWhCSTdodTBOdkVuUTRtbFlEYkkwQk1KSEdKck1TTUZhU3FQaU1zTUw2dWFfM0E4TmZrdGtYUy1PTkpBNG5SdnAwNHUyLURtbHpNQkROT0VQb1FJaE5QcHVFQllaLXRxemRweTZkLVhJamxhOTdMQnpqTERadGxIakd0eHR3dDZ1czNiaWwwbENlQ3dINE40eFNoWHhwZEpMbmI2VlBUS09hX2FMMGVuSU5xRnd2bVdWNV9aUQ?oc=5",
+      "source_name": "The Conference Board",
+      "published": "2026-09-24T07:00:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
       "id": "5fc00cf3c2a19575",
       "title": "Cornell Announces Tighter Temporary Work Eligibility Criteria for Some International Students Following Messages From ICE",
-      "summary": "Cornell Announces Tighter Temporary Work Eligibility Criteria for Some International Students Following Messages From ICE The Cornell Daily Sun",
+      "summary": "Cornell Announces Tighter Temporary Work Eligibility Criteria for Some International Students Following Messages From ICE cornellsun.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeEY3OXhJM1NFckU2V21GQXhtUnZEd3o2YUFMOUNqaTI5R19fMXZYR05RQVFYNjZCWUVrUW5tWHhGa0Z3N3dDU2JVSEg3enFRMG1qemtmenZVSnBUcGRJc0VqbXV5WWNvYm1vVVVnSzhnYzBfcmZ3a1VEcVlmRU1ManhySDZCSEdxWTNKLUpVSkVBLXF2Z3J6NzZWWXlON1lDUWpEcW1hemVabGtiNHZLTi03aVRLdGh4aWExTkFENkVmZ3VsMDd0Rl9YNGs2eXk0aTZpNVlhWXpJYkpOdWZhMm9Wd0tKNXJvVW9QTmJsdkNMMEdiOTFj?oc=5",
-      "source_name": "The Cornell Daily Sun",
+      "source_name": "cornellsun.com",
       "published": "2026-09-24T05:27:04+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -410,17 +465,6 @@
       ]
     },
     {
-      "id": "bab18f6c04c76a29",
-      "title": "'Nagarjuna is an H-1B trafficker': Sara Gonzales claims Indian techie hirer she exposed earlier is now se",
-      "summary": "'Nagarjuna is an H-1B trafficker': Sara Gonzales claims Indian techie hirer she exposed earlier is now se The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVXJ5MVY1ZjdiNFRzMTQyMGN6YlJZQVlaZnlIcUxWWVVUbmkyRGtlQ2VFSE42SktqR3hKQ1NtSmhzMzltSWlSZVpVcnRsX3ZWb3hPbUI5Y2hsUjFSU3ZrMC1qaldUVE9nR3o1UDZqMnY1RE9ldGlxNk9iN2hEVER5elF2RFNWVGxLaG1tNXp3ejIzUllVeVU4UW1Bdm1lUW1wOWhEa3l2eXZKNjFiTWRNRWlXek1WUDNpOXowYVFRb1JkWGtlRFJPY3RCU1FMNjM2TjI1UDJBLWZtbXM0UUdYNzRMNDZFV01hMzQxTHdIZUVkR003TmJjNlBSQmpXT0FOSGtRcjAwNXpfX0ZwQVcta0Z6MDNJOURoNXctTXRqaE5VdmYzVy0yeVJ2QdIBsAJBVV95cUxQX1Y2V0dYT1ZSZnRmaVJGTy1ZQ3BDcjFIUlhBZzA0VzJIYUZFTGY4UTVWNFRQNGdRM3NmdzdYLW9OY0tob3dibmg5NHJOTjN0Z1VNWk5qY0VRRXF1MmRyMXJsZ1Q1YWgxRzJEVC1wSXktVGtmQVdvMjc1NWJKakZkMVlWb0dBUGZIZXBpYmVJVGZ1c2xQaDRDY3V0NmpIVzl5NkhzekRTX1RDaEpVLU43d1Rnb2FiUjRCVWMzRXFZeXdjQXRxU1ZsbG1jNllRMDJQbTJkNVdpNmhBa2V1U0p3WkdTNXp5SzU1Sk9FdE5FLUVNVWFWaVVtNEI1WUhmT3hGME9kMnBjWWJfbjJSbXN4SDhYaVVsN2ZPa21DMXBPUmFPYTFQUXJrRzk5WFhlcnR0?oc=5",
-      "source_name": "The Times of India",
-      "published": "2026-09-23T18:00:00+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "1b315dd86a12a004",
       "title": "Trump Cracks Down on Controversial H-1B Work Visa Program",
       "summary": "Trump Cracks Down on Controversial H-1B Work Visa Program The Maine Wire",
@@ -434,9 +478,9 @@
     {
       "id": "530222f4bcfa41bb",
       "title": "New H-1B Executive Order and $100,000 Proclamation: What Employers and H-1B Workers Need to Know",
-      "summary": "New H-1B Executive Order and $100,000 Proclamation: What Employers and H-1B Workers Need to Know Reddy Neumann Brown PC",
+      "summary": "New H-1B Executive Order and $100,000 Proclamation: What Employers and H-1B Workers Need to Know rnlawgroup.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclBndHg2YVBpUjhBRncyVTdXY3FTRnQtLUpMYUlBQ0paYzN1c2Njd3BrRWxnb0VkTXVvbE54UzB0N1B5TVRrZXA5dGdNVGI3RWFYWG15VDhEbXZmR1dYMkFQTl9uQU04R2xxdkJjRU15WU0tdnU1YWctdGRYeWlQYmtTd0NOSE5ycko3WGFvSjk4WFlUMXJvb1lHaFpNYWg4SVg3N1ZjVUg2dVNzUGRNSHNsUS1wS2hUVVJwZnln?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "source_name": "rnlawgroup.com",
       "published": "2026-09-23T16:04:37+00:00",
       "categories": [
         "H-1B"
@@ -489,9 +533,9 @@
     {
       "id": "fc396e12769575dd",
       "title": "DHS tightens student visa rules amid legal battle",
-      "summary": "DHS tightens student visa rules amid legal battle williamsrecord.com",
+      "summary": "DHS tightens student visa rules amid legal battle The Williams Record",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDVqbFlPTWhkWmVaM0syd0NSeVd5TkJXVXlvNnRLYi14Q01rZDZuUWdRdzJWbkhWTmloRF8ybkszaWc4Rl9HRzhrcmNzRk5EaEhDZEFwUVhNS0Y0Q2lkS0dNMHlrSjNoOTRrQzFuQldpWE5WNUNZNHZGbHZRNTJQWXV4Njd4V3FWMDltcnNKNmhVV1k?oc=5",
-      "source_name": "williamsrecord.com",
+      "source_name": "The Williams Record",
       "published": "2026-09-23T09:19:46+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -533,9 +577,9 @@
     {
       "id": "f22826f4c6dfadb1",
       "title": "U.S. Court Delays New Visa Rules for International Students",
-      "summary": "U.S. Court Delays New Visa Rules for International Students en.traicy.com",
+      "summary": "U.S. Court Delays New Visa Rules for International Students TRAICY Global",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QbXQwd0I1X0FMSUlEU2d4WEt0RTFaaW40ZU5McTVSdFpoQjhUcDkwYlRVeTJoN1RaN2VOQ0cxbGxQQ1F4WmpzOFE1ZDZZNmtHNEFKbg?oc=5",
-      "source_name": "en.traicy.com",
+      "source_name": "TRAICY Global",
       "published": "2026-09-23T03:04:29+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -641,17 +685,6 @@
       ]
     },
     {
-      "id": "9bfa58edd345f48d",
-      "title": "San Francisco to New York: NRI reveals how much H-1B workers need to earn to live comfortably in US | Hindustan Times",
-      "summary": "San Francisco to New York: NRI reveals how much H-1B workers need to earn to live comfortably in US | Hindustan Times Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY1MwdnhOYkE1ZDdIOHZJUTcyYkhNYV8zV3VueUFNd0FJLU1ESjN3UU5JWWVfb1pYVEZ1WmFzY2VjelRPdy1SblVkMlNPdzBZdGNLaTdXcTU3dU1HSUNHcFYwRlNsbXdrR2E5aGN1MWFlNHUyRGR0N3BfY3AxLXEzYjlOazNxRlU2dVh6UFBJd2lyd0VuSFNtemlmd2h1emtGVE1nV1gzTGxheHl2SEFjTm0zSkVQMDRCb21NTWlIZmUyYW5yYWs5ZFVCaG9admE1TmpSZ3d2X3JIZy1GU3pZRFpIOGxicEtKWHAxWHBLVmN0aU1s0gH6AUFVX3lxTE1oNVZ3MktOcHBjYlY4V1JMbDBLYmE5SG82bjh3MGp0VzJraEY4RUdiaHdvNC13U3lUTVVnX2tDcTlZMTd5enpfQzQ0bXFDd21VZDMzLXZKV1p3bEhNaDNBdUhhRUE4VVZpVW11VG94VFZRbDlYend0NjdxeDlmTTFRX1Y4Ty1fRmtZTkUzelZHMDdXQk9ZV2xWVGd0dEdiY1ZtTFlNNUR4aDBEUnkyU3RHS1JpNWdfMWppVWlhdUlwdDlLeS1rUGJwd0I2Z2Q2c2RRWW5ycm5fMHVFNEl6cEFLTmRfamtzOGtEcFFnblg1VFBucE84UDVCT3c?oc=5",
-      "source_name": "Hindustan Times",
-      "published": "2026-09-22T11:36:52+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "da09d967eb9f77d0",
       "title": "President Trump Extends Order Restricting H-1B Visas",
       "summary": "President Trump Extends Order Restricting H-1B Visas The Presidential Prayer Team",
@@ -741,6 +774,17 @@
       ]
     },
     {
+      "id": "1c3c0f333c96eb71",
+      "title": "Federal Court Blocks DHS Duration of Status Rule; Major Changes for F-1 and J-1 Visa Holders",
+      "summary": "Federal Court Blocks DHS Duration of Status Rule; Major Changes for F-1 and J-1 Visa Holders Auburn University",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeG1Cb3FWU1ZPeUNSRldWZFcxcFhseVhqNkcyczN3dUY2VVdIMThYNkZnYlhuMzZraDVGN25BMUV5Ym5NeE96YXI3b1o5Y3h6MkduSlVfeWVacnZRRk9BWVNFY294YmFOb3dfMnRaTGM0WmkteEZMZ2taWmNrRXJXTHNFMGJlejZDbHp1QUpQd0pFbG4wWGZycS1OelNFOE9mM0o1VWQzUGk1V19RNXVpWEEwVk9SLUFBSkE?oc=5",
+      "source_name": "Auburn University",
+      "published": "2026-09-21T17:23:35+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
+      ]
+    },
+    {
       "id": "615e5db923dc0ee2",
       "title": "Trump extends court-challenged $100,000 H-1B visa fee",
       "summary": "Trump extends court-challenged $100,000 H-1B visa fee Staffing Industry Analysts",
@@ -787,9 +831,9 @@
     {
       "id": "3aad6c0ee0d1723a",
       "title": "Trump Extends $100,000 H-1B Visa Fee for Another Year as Courts Review Its Legality",
-      "summary": "Trump Extends $100,000 H-1B Visa Fee for Another Year as Courts Review Its Legality Межа. Новини України.",
+      "summary": "Trump Extends $100,000 H-1B Visa Fee for Another Year as Courts Review Its Legality mezha.net",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhTEN4V1hUQzUyRlFBOTVudDM3d3ZYakFxaGtxbkRJMzlEMjl2R21LenZhTjNKdGN6alFkOUlFakJBMzBCbl9YN2ZORTlDQlpVaUJmd09rWXBDbWtFQ3BNZUszQm84ZFo2NEFJ?oc=5",
-      "source_name": "Межа. Новини України.",
+      "source_name": "mezha.net",
       "published": "2026-09-21T12:44:09+00:00",
       "categories": [
         "H-1B"
@@ -875,9 +919,9 @@
     {
       "id": "0453f56110d0e377",
       "title": "International students face uncertainty after pause on federal work authorization",
-      "summary": "International students face uncertainty after pause on federal work authorization Daily Bruin",
+      "summary": "International students face uncertainty after pause on federal work authorization dailybruin.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm54YlNQcURqdTFLOUdhdjNBR1RLd01zV3FEWTc4MGhLRHhrZ0R3OVFCUE1uLTJMZUQwU082cHMzOUFXUlRNa2RGcUpRRHF5blVQaXQ1TThJQl9WMkR2bFBNazA2N1JRRjlCeHAyWUJuNlFuNk1HZXdUdXB2bVc1V3NTR09mN25iVm5WZ0tWZk5FQnpMdGRoeS1pTjFVejdVLV81bUNlYUZPbG1yOEVPUkkxUWpzdw?oc=5",
-      "source_name": "Daily Bruin",
+      "source_name": "dailybruin.com",
       "published": "2026-09-21T03:17:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -906,6 +950,17 @@
       ]
     },
     {
+      "id": "90c377454e5c9254",
+      "title": "What Indian students need to know about the new American visa rules",
+      "summary": "What Indian students need to know about the new American visa rules The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNjcyVlFYckdpT3c3cHNZYzNGOFJtaXFHNXpneURBZHdHajg5ZnA2UTFSbVItVjlUQjhMY1dzdzRCWHJtY0dObkVOT1ktcDdHUHIxU2F2UnpfT2NNODRCcXFFZFBTZ3dIeC0xSzRxRXRGaFJEQWFPN1hWbklVRVBCN1ZlNzNFcjZvV2tJMzYxcUlLMmo3cGN1V1Fia19tSVQwVERLMkpVTHhHQmQwLWpuc19TcjhhMkk0akFzamJKb9IBxgFBVV95cUxPVWg1M1l5LUdHeWRMdzZtVWJWbUtEYUJBTnVjYlNJZmh1bTktWl9kWjd1TXFkWHZoWXgzS2F1TmxRMFRBaXBKVVJ0N0x0UnlrakFmR1lBRm90bTQ5SWE0TFZTLWYzZ29wMTRsMFpNb1c4MkJhaDJNYzQ5R0tVUU9pMXBFOURqTk1YQllTbGZQbUY0WDVkZ1h3amZaR05UdTdhRVpPWnF6NEdvbTZrMFlseWxiWU9SOHBBNHdhaXREMmpWUERqSlE?oc=5",
+      "source_name": "The Hindu",
+      "published": "2026-09-20T02:30:00+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
+      ]
+    },
+    {
       "id": "b19e088374554072",
       "title": "Executive Order Calls for Interagency Review of Employer Layoffs in H-1B Filing Process",
       "summary": "Executive Order Calls for Interagency Review of Employer Layoffs in H-1B Filing Process Ogletree",
@@ -930,9 +985,9 @@
     {
       "id": "2d24c14a3b330efb",
       "title": "New H-1B Order Targets Employers With Recent Layoffs",
-      "summary": "New H-1B Order Targets Employers With Recent Layoffs Boundless Immigration",
+      "summary": "New H-1B Order Targets Employers With Recent Layoffs boundless.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xbkVlang4N2M4REpGLW1jV1U2WlN6LU9iczR1YVlfbzdKX25odXV0VkFKdVNZYVBwZTQwYmRpei1yMnNjVXBjN2QtbEpDZnFfQXFBUHB3eXZCN0paVzByd0czRTFqNmdkVnc?oc=5",
-      "source_name": "Boundless Immigration",
+      "source_name": "boundless.com",
       "published": "2026-09-19T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -956,6 +1011,17 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcTZLUFVtbk5WdVpwSU5xeEs2R3p1TjJuU2dHWDlyV253d1lfZU04NG1jWk9paGxxa2RrNHV6MG51dm1uUUZnSnhOV29PS1pGZTgtY05VTzhEdFE5SVh5ZE5HV3V2N2ZnS3J3RlMzUzE2U3NWZFFFOE5IQ21hQ0dPckR0Q0k2cjBWVVd5UlJnT0g5aHFBTnNMcnZPNnhleXFEOGRuZlp3Z0tCRWpObllyUnRDREFpMGI3UnZOOS1UVFlUSGp4X2xYMFVRZUpFRFJXUDlHVjl1ZC1saElaem9QMkxTNlpnTmVCaXNOUU12RFVjVWZOWElyNTA4SGM1Zw?oc=5",
       "source_name": "Fragomen",
       "published": "2026-09-19T03:13:42+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "95f2ab3a3c9e37c5",
+      "title": "Trump extends push for $100,000 H-1B visas by another year",
+      "summary": "Trump extends push for $100,000 H-1B visas by another year The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdHp4NmhKWTlWWlY3b0JiMEpJOWhKUmRudWFmbndxaHdOWGFRVEFxQ0FncXBOWnF6VDQ4Tl9VbkE0cG5rc1A5YUhOOEFPUjg4QlZVVll3a01yZFZhZXNhZjJjMGJCcFdtZEcwRG5qM1phMk9RVTJscWhKNjZjbFkybHZMd3daNU9tMGN4WEs5VERTTG0zeUE?oc=5",
+      "source_name": "The Japan Times",
+      "published": "2026-09-19T01:01:00+00:00",
       "categories": [
         "H-1B"
       ]
@@ -985,9 +1051,9 @@
     {
       "id": "bd77e7a2ef7ae115",
       "title": "Trump extends push for $100,000 H-1B visas by another year",
-      "summary": "Trump extends push for $100,000 H-1B visas by another year Reuters",
+      "summary": "Trump extends push for $100,000 H-1B visas by another year reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnBFNl9oTDFRanpweUNDNTNjNkFaMjdUS3g0a3BUTk5fa1g4UXRobG5hQ3hKZ2x6QzFNODJqUmhNSWJ4S2Y1eDJQWUV2Y1NmczVGUFd4cXZWNkFKVl8ySXRBWHIxdHJvZ3Rjek5HUDhQLTdNVkNRLWhMXzR6MEJIaV9NMW9Na3Q0RlRZOWEyVFlzeW1IaUstTzk0dFlJVlBqTzRQQkdUNjRHNGdYSUZDMkZHUng3Nlc2SGFJ?oc=5",
-      "source_name": "Reuters",
+      "source_name": "reuters.com",
       "published": "2026-09-18T21:58:00+00:00",
       "categories": [
         "H-1B"
@@ -1119,9 +1185,9 @@
     {
       "id": "9eb2e94f83f16ea6",
       "title": "Tech Giants Silently Reroute Jobs as H‑1B Costs Skyrocket",
-      "summary": "Tech Giants Silently Reroute Jobs as H‑1B Costs Skyrocket IEEE Spectrum",
+      "summary": "Tech Giants Silently Reroute Jobs as H‑1B Costs Skyrocket spectrum.ieee.org",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tejJ4T2djS2gxM2ZkcVk4N0VqNENKSFJFbEc0WDFWNS1lTlFKNEh4VUpPNGtPRldfM1lzMU9XQjJ0NGk2TkVvMjl1UU9vUjhfVjE2U0Z2MXp3YUdaeGc?oc=5",
-      "source_name": "IEEE Spectrum",
+      "source_name": "spectrum.ieee.org",
       "published": "2026-09-15T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -1141,9 +1207,9 @@
     {
       "id": "2886ea8dd80fdc1d",
       "title": "Federal Judge Blocks DHS Duration of Status Rule",
-      "summary": "Federal Judge Blocks DHS Duration of Status Rule Boundless Immigration",
+      "summary": "Federal Judge Blocks DHS Duration of Status Rule boundless.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4UGdWMVhpUXpMdGZJVEp4QmYtclJRWndXcTVyQnRPWmhzSzZaYlZyZnFoT2pPZmpfMklpdk5CamphRkJMU1d6dUlnQ1VhSnJjaVlqSFhjdGVPblg3ajRwcFBvMzNkWTIyd2lZOTc1Y055NGxDNUh4QWln?oc=5",
-      "source_name": "Boundless Immigration",
+      "source_name": "boundless.com",
       "published": "2026-09-15T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -1158,17 +1224,6 @@
       "published": "2026-09-14T20:20:16+00:00",
       "categories": [
         "Official USCIS News"
-      ]
-    },
-    {
-      "id": "f70696ffad74180a",
-      "title": "Key Questions About International Student Visa Limits",
-      "summary": "Key Questions About International Student Visa Limits Inside Higher Ed",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHR3eUxjY1ZpY29tZ3FnRGJPcThCaGlRcUo4dHJCbDJCa3dQRW9hcHFjTXBGWnowZWV6REZ3ZUdsaUsxb2dFOWZVXzRRa1pJaHF3MlVwNmVCMGJXR3p0UnlMZVpyWkR6NU1lVERSbjVrejl3NGFwN3ZhWG5RWElSZFkxelhKMmM1cVM3ZWZSRnRLR25vMkZQTjg4S3VaVVdXM0tPSTdBZHpXSVdYWlFJdTRGMHN5NkpGUXNqUjhsMHBMLXRv?oc=5",
-      "source_name": "Inside Higher Ed",
-      "published": "2026-09-14T07:00:00+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
       ]
     },
     {
@@ -1188,6 +1243,17 @@
       "summary": "Tufts international students grapple with imminent visa restrictions, concerns about potential drops in international enrollment The Tufts Daily",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTFVVTm5BbERoWmNsRnRrbWVmYmw1S1pCODJxVHJlX2xDVTVyWkQzd0tidHdVUU9JS2JYaVNQU3o1R0xGRTFNUzl2ZUotRlp0MHYwUjZJMDRvRElhVVlVaV9kYTcyazhMdXFtTGhheG5wN3ZmdXdwYS1MWHVtcE9uY2JaMVNLaU9LdmdudVNJX0I3Q0dqT0pSWVdublNGckp1b3Q5ZkFCS3lNbHl1SS04QkVkbVJZNGtYZktIcV9WdzFIVUpNU2lqTUlpYVNnSEhRYjF6Sm8zbnRaZmxjbDg0Zm11cHA3SFpTQW5yaHlneDJYR1JDVVpkWjZvS2tHU1U?oc=5",
       "source_name": "The Tufts Daily",
+      "published": "2026-09-14T07:00:00+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
+      ]
+    },
+    {
+      "id": "f70696ffad74180a",
+      "title": "Key Questions About International Student Visa Limits",
+      "summary": "Key Questions About International Student Visa Limits Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHR3eUxjY1ZpY29tZ3FnRGJPcThCaGlRcUo4dHJCbDJCa3dQRW9hcHFjTXBGWnowZWV6REZ3ZUdsaUsxb2dFOWZVXzRRa1pJaHF3MlVwNmVCMGJXR3p0UnlMZVpyWkR6NU1lVERSbjVrejl3NGFwN3ZhWG5RWElSZFkxelhKMmM1cVM3ZWZSRnRLR25vMkZQTjg4S3VaVVdXM0tPSTdBZHpXSVdYWlFJdTRGMHN5NkpGUXNqUjhsMHBMLXRv?oc=5",
+      "source_name": "Inside Higher Ed",
       "published": "2026-09-14T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -1339,17 +1405,6 @@
       ]
     },
     {
-      "id": "e41064c5dfba6d19",
-      "title": "New Trump plan gives foreign workers no grace period after job loss",
-      "summary": "New Trump plan gives foreign workers no grace period after job loss USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVRxMEM2Wk0wTXVCQlRmZnEzZzM0dUtqS0kzTjVfc1lEckN4ZV85SnJkdWdZeFpTUENOeXNVQlhzUzA0V2xCQkZ6OFdsVzRBWU43LW5jWWlEdFVmZE9BcjJHcDk1X1ZGTzVZSWN6bC0wTUJXR3d6MjhYN0twUWF6c2I5aDVoWEZKdC1fd2NheThKMGRNaTN3a0kwRTJpYm9zSGFOSDB3amY?oc=5",
-      "source_name": "USA Today",
-      "published": "2026-09-11T07:00:00+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "1b723905e4917d59",
       "title": "USCIS Backlog Grows Even as Agency Gets Fewer Filings",
       "summary": "USCIS Backlog Grows Even as Agency Gets Fewer Filings American Immigration Council",
@@ -1374,9 +1429,9 @@
     {
       "id": "f835c5a0454f97b4",
       "title": "International Students Face New Immigration Hurdles This Year",
-      "summary": "International Students Face New Immigration Hurdles This Year American Council on Education",
+      "summary": "International Students Face New Immigration Hurdles This Year acenet.edu",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcEV0c1Fpdm9YV1JSY1ZZT21JVUdkY2tMVmFaQjRUbEhzc1pIVjFzcXZ5NW1seVh4ald4YmNNUV9JbUoxQ2c1M25tMFdPcUZ1QlhJVk5oM1JyNVYyeWpVQ2ItT1MtVlBEbFFIeDNBencxd1RqaThTRlVnT3ZZSjRxczFxQmZyRVdKbnF2QjNIRmVXR3ZiOWxXN0ZiNjRxYnBINUxYeVlhQV9PQQ?oc=5",
-      "source_name": "American Council on Education",
+      "source_name": "acenet.edu",
       "published": "2026-09-10T17:28:05+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -1396,9 +1451,9 @@
     {
       "id": "9e481b8f9a593dfe",
       "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
-      "summary": "Trump administration proposes axing grace period for H-1B visa holders after job loss Reuters",
+      "summary": "Trump administration proposes axing grace period for H-1B visa holders after job loss reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFExZGJsaERnTExDODNaTmptMEF4VkRlMXRjOUItcHkzOFhULXBxZ1pJOS01YWZyQXI4aHJDb0I5NG9PRkVEUXJlUkswZXJRakJSb1BRRlc2aEF5aWliaEpFNGN2akwzakR4R19yUWkxeDYyT2tkc09rVTJvZTBSSHYtcTk5bHYyYlExUFhSYXVIYnBGNUM0eTBpc1NBY05sZ1ZXVXJOVzZyTTJaWVQ4dzJENVZwdVpxcGpYNDRfTE9HeXFkQzRQSFdocw?oc=5",
-      "source_name": "Reuters",
+      "source_name": "reuters.com",
       "published": "2026-09-10T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -1407,9 +1462,9 @@
     {
       "id": "9f1bd0f1ee487a8b",
       "title": "Full list of companies disqualified from H1-B visa program",
-      "summary": "Full list of companies disqualified from H1-B visa program newsweek.com",
+      "summary": "Full list of companies disqualified from H1-B visa program Newsweek",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXlGbVZGakhsZ1FJa05nbDVsb3o4ZGkwV042a2FFRFFUZGtTNUtheGtPVXRnTjQ2OUY4OVI3RGJUSGY3STJBamlaUWsyRVpWVHRHVnhSRE1jX2NXdGd0OW1SeVdENld3Sm15bnRxLVNaZWZ2eVU3a002amw5bFduTjVPZWVtT041WnYtNm1GZWQ?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-09-10T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -1418,9 +1473,9 @@
     {
       "id": "6789d4fdf2106533",
       "title": "Trump administration proposes ending 60-day grace period after job loss for H-1B, other visa holders",
-      "summary": "Trump administration proposes ending 60-day grace period after job loss for H-1B, other visa holders foxnews.com",
+      "summary": "Trump administration proposes ending 60-day grace period after job loss for H-1B, other visa holders Fox News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlVUV2MtMFJiN0kyV0xQQjlfd1EtQmhuUWNFRWN3N0tMQjFqbTE4ckhMWnZKelpzdzVNRFhCTVg0RlJDUFNMSlpXVDhZeVVlZkdNLTVpcWxRbk5jZElISWxTNVM3UURILW1WM0FObnJjSmkyTldia1hoTHdtRTh3VzZoVVk1SklpdjlnaE9xVks3Z3FuYlhiMkM5akNzRFRyYmdoVzV1YXctcTjSAbABQVVfeXFMTW5sRE5MaFpHV0w1R0FMdzhBRXdhZmZWVlQwa1B4SnlMS2thMzY1V1hpWWxjUW1mUGszd0U3WGNsdWptajFFSGpVR0hlYjBidkFYa2ZaMWw2N29kT2g2YWVwOVVJeGp0cjIzM0x0dVdOOGdhU0JBWGZ6UldtRmotRGY1YkozaHMtaHVVVGpwQ3pGcFpUak5xM3VLU3ByRTNtRHlfMWNHYmpNZWRYUXlVVTU?oc=5",
-      "source_name": "foxnews.com",
+      "source_name": "Fox News",
       "published": "2026-09-10T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -1438,22 +1493,22 @@
       ]
     },
     {
-      "id": "e60e6dae5ebbf7a6",
-      "title": "DHS Proposes to Eliminate the 60-Day Grace Period for H-1B, L-1, O-1, E, and TN Workers",
-      "summary": "DHS Proposes to Eliminate the 60-Day Grace Period for H-1B, L-1, O-1, E, and TN Workers Reddy Neumann Brown PC",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDFQZW1zNDBzaVdaenlqelNWRmxOSy1EeHlnemVUV1VnNXF0b01QU3hDZGlUNkhMN1Fjdm16azJuUl9RRzI4Z3d3dlR4WTZiS3oydmJlYlBEMlV1LWh0aURlQkZvMmNkVTk5N2JxUjdFaDdYTzk1MlRKcXplcVBybFp6YzNaV3ZWV0QxUW1OVlVkenVuRUk3ak5MNnJnMWhHaEdrVml3Si1hWVZ5c0RXaA?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "id": "2705d435ce03f3b2",
+      "title": "DHS Reveals Details of Axing H-1B Visa Holders’ Grace Period",
+      "summary": "DHS Reveals Details of Axing H-1B Visa Holders’ Grace Period Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUU3MzBJbGJST1owRWh2ZVRsYlhTblVPaXhISU0wQmJZdTdlNG1NcVlZYXhMTUVpN2VaSkVjN2VQNF9RUkY3c3NUTmpfS0FZVzloUnN4Z2JwZENoampwQnBocVNCRjhHWGRJU211OEFzS0lBbzRndFhid19ndi1rS1ZnemJDM2ptUnpHVmdvTmt2dVJ6OEozZ2F5Yw?oc=5",
+      "source_name": "Newsweek",
       "published": "2026-09-10T07:00:00+00:00",
       "categories": [
         "H-1B"
       ]
     },
     {
-      "id": "2705d435ce03f3b2",
-      "title": "DHS Reveals Details of Axing H-1B Visa Holders’ Grace Period",
-      "summary": "DHS Reveals Details of Axing H-1B Visa Holders’ Grace Period newsweek.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUU3MzBJbGJST1owRWh2ZVRsYlhTblVPaXhISU0wQmJZdTdlNG1NcVlZYXhMTUVpN2VaSkVjN2VQNF9RUkY3c3NUTmpfS0FZVzloUnN4Z2JwZENoampwQnBocVNCRjhHWGRJU211OEFzS0lBbzRndFhid19ndi1rS1ZnemJDM2ptUnpHVmdvTmt2dVJ6OEozZ2F5Yw?oc=5",
-      "source_name": "newsweek.com",
+      "id": "e60e6dae5ebbf7a6",
+      "title": "DHS Proposes to Eliminate the 60-Day Grace Period for H-1B, L-1, O-1, E, and TN Workers",
+      "summary": "DHS Proposes to Eliminate the 60-Day Grace Period for H-1B, L-1, O-1, E, and TN Workers rnlawgroup.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDFQZW1zNDBzaVdaenlqelNWRmxOSy1EeHlnemVUV1VnNXF0b01QU3hDZGlUNkhMN1Fjdm16azJuUl9RRzI4Z3d3dlR4WTZiS3oydmJlYlBEMlV1LWh0aURlQkZvMmNkVTk5N2JxUjdFaDdYTzk1MlRKcXplcVBybFp6YzNaV3ZWV0QxUW1OVlVkenVuRUk3ak5MNnJnMWhHaEdrVml3Si1hWVZ5c0RXaA?oc=5",
+      "source_name": "rnlawgroup.com",
       "published": "2026-09-10T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -1462,9 +1517,9 @@
     {
       "id": "72555e5e9fa2b7d8",
       "title": "New federal rule capping visa durations at four years to go into effect Sept. 15",
-      "summary": "New federal rule capping visa durations at four years to go into effect Sept. 15 browndailyherald.com",
+      "summary": "New federal rule capping visa durations at four years to go into effect Sept. 15 Brown Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLTI5V3NIcGV1RXZiWDg2Mm1fdmVNdkdUbWV4aXJqQTQ5MjdmbE9KWVpiQTZKa1dLVzZ3QjdWbHlGMThRQWJXLVdKa0tXUGZXcENJQ3Z3Y1M4SjFpazJUR05fc0FpeU5XX29vRmNXclgtSDJRNzM3NEM2N1o3ZTZVeW5qbzJrVTItYkdra2NkWGdzM0hScjJ5UXVkVXZhTHI2eE4zZDI1N0tEWnE2SS1jUjZRRUtqUERZd2JueW9PWDN5bWM4TngtaQ?oc=5",
-      "source_name": "browndailyherald.com",
+      "source_name": "Brown Daily Herald",
       "published": "2026-09-10T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -1506,9 +1561,9 @@
     {
       "id": "c8cbbcfcee71121f",
       "title": "Could Your Priority Date Become Current in October? What to Consider Now",
-      "summary": "Could Your Priority Date Become Current in October? What to Consider Now Reddy Neumann Brown PC",
+      "summary": "Could Your Priority Date Become Current in October? What to Consider Now rnlawgroup.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUENXSHhfVjFTZFVXZG5RWHhFUHhQWW42YTE3UzZVdjdoY1k3ckQ0bVNCU1lmRlJma1lqLU1fRUthQnctRXZXRVVHVmlKT25hcTdTOUFYNVd3bl96XzVxNlBsMGVMM0RsYmd3eFowanprOVdmZ0JWWkF5cS1BemlaUVk0VmlMTG5kZVNLQnc2YXpkVUtBOE9lODdhUzRkNzJh?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "source_name": "rnlawgroup.com",
       "published": "2026-09-09T07:00:00+00:00",
       "categories": [
         "Green Card"
@@ -1517,9 +1572,9 @@
     {
       "id": "5dc08028445cd712",
       "title": "US-Indian IT Giant Cognizant Hit With Green Card Freeze, H-1B Fraud Probe",
-      "summary": "US-Indian IT Giant Cognizant Hit With Green Card Freeze, H-1B Fraud Probe newsweek.com",
+      "summary": "US-Indian IT Giant Cognizant Hit With Green Card Freeze, H-1B Fraud Probe Newsweek",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkFESFFSb1BKV2dKdm93SGpWaHZMLTQ5ZHh5YUl0ZjlXY1hqdTBUaUFNYmZ4VWJOWVEzY3lQUGhkZXNscEM0M2VTMFRrUmxMSXpMMnY2TksyZmRUZUxwZEIxR2Z3VG9sQVo4OHFuY3ZReTE2czBKc215UnZSbkxXckVla2E2cmx3NGJIRXY3MFRaNWtRRVBxM0h0bTJTUE5IMzZrOFVWU0RJQQ?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-09-09T07:00:00+00:00",
       "categories": [
         "H-1B",
@@ -1642,9 +1697,9 @@
     {
       "id": "8fbb2505cce3658e",
       "title": "US suspends green-card filings by Cognizant amid visa-fraud probe: ‘Threats to American workers…’",
-      "summary": "US suspends green-card filings by Cognizant amid visa-fraud probe: ‘Threats to American workers…’ livemint.com",
+      "summary": "US suspends green-card filings by Cognizant amid visa-fraud probe: ‘Threats to American workers…’ Livemint",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjEwMVRQWGZHamM1cUxDNDkxRWVOSEM5MEZkNy1IaXRpRkRfNTlvejB0ZUNvVDRlWDZ1XzJLRXYxOEJ4YTFpZXMwd3U4N0REdWl0SU1iaFROWEo3SjdDZjhCSUZ4bGh6bHh0MURtX1JJTkdLWTBWemVYRmJqVWJwVUtpQ3BDTTRRMmcxYjE4RjBuQjlyNVJZblFraVdDM0pvc2xCdWZnOTB1UnJmYmhkVHVZbVU1Y0JYakJWc0NIZTdGQlRzZUQyNUpIZVlhQkJOWmcwWlZXcDdIMlFVbEFDbGtyUUFJX1Vu0gHuAUFVX3lxTE92OUJSV1YzOVd1WU9HWFl2NDlvS20tOEpBZEFfMUpZT21qUG56RlNuUXpPSVhFTmRHQjl1djE5Rm1PSzR4ODJ4ZFc2dFdFNWluemRTZHRoWnlrb25QRHkyYWNpRHJqOC1RTlFBSkFWOWhzc082RHNqTkZNT25pZW0wN1RMaElvQzcxRXIyUjlIZm5DNEI1TkNZWXFzMXBfWnotaEtiNDdPd1hfblp6OHFvVFJzMmNTM3RpUHIwdGpIRnNCcG0tdWVkbEl0YldVSUxpVmdZUFdtWlVrUS1RSy1VclF3RmptZDBxQ3pBb0E?oc=5",
-      "source_name": "livemint.com",
+      "source_name": "Livemint",
       "published": "2026-09-09T07:00:00+00:00",
       "categories": [
         "PERM"
@@ -1673,6 +1728,17 @@
       ]
     },
     {
+      "id": "a3977b7f3cffd605",
+      "title": "After F-1 Visa Refusal, Colleges Can Do More (opinion)",
+      "summary": "After F-1 Visa Refusal, Colleges Can Do More (opinion) Inside Higher Ed",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSFVYX0pVV0V0c2FiU3hrVDFRZ1Q5dFh4b2RUSjJnVm9RTnpSeVY0VXFYRmM1aDJpWnhjYWg5UUJQZHpUTWc2a1loV1lIUlM3MjNKb2hyZDdVb0JJZ3h5Z3E4LTRWeWZrRzNvRk4wQjNSSmdzSG05RnROYjY0Zkp2cTFVdHJxZm8ybzRGZ0QyN3padzVYc0U3LVlBLU83b0hlaEl5X0tJSFNabEk?oc=5",
+      "source_name": "Inside Higher Ed",
+      "published": "2026-09-08T07:00:00+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
+      ]
+    },
+    {
       "id": "aa97da1f8c7ccc2f",
       "title": "DHS Student Visa Crackdown Effective 9/15 Raises Major U.S. Tax Risks",
       "summary": "DHS Student Visa Crackdown Effective 9/15 Raises Major U.S. Tax Risks Forbes",
@@ -1689,17 +1755,6 @@
       "summary": "Judge signals possible halt to US student visa duration rule The PIE News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEZyM0g0QXFqVVItTExrRU9rbmhtUS1lOEYxcVpudnR6QzJmOUN5TDBxeHFEellpWkhVdmVDLUk0djc5MEpBWmhDWnhteDFZS05VV3J5ajlyWGtoN1pwZGExUnNhbWEyZVVKblA4dndFNkZBcVNVOGduckN2a29DYTVQX3VYV1VTbUFLWA?oc=5",
       "source_name": "The PIE News",
-      "published": "2026-09-08T07:00:00+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "a3977b7f3cffd605",
-      "title": "After F-1 Visa Refusal, Colleges Can Do More (opinion)",
-      "summary": "After F-1 Visa Refusal, Colleges Can Do More (opinion) Inside Higher Ed",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSFVYX0pVV0V0c2FiU3hrVDFRZ1Q5dFh4b2RUSjJnVm9RTnpSeVY0VXFYRmM1aDJpWnhjYWg5UUJQZHpUTWc2a1loV1lIUlM3MjNKb2hyZDdVb0JJZ3h5Z3E4LTRWeWZrRzNvRk4wQjNSSmdzSG05RnROYjY0Zkp2cTFVdHJxZm8ybzRGZ0QyN3padzVYc0U3LVlBLU83b0hlaEl5X0tJSFNabEk?oc=5",
-      "source_name": "Inside Higher Ed",
       "published": "2026-09-08T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -1897,9 +1952,9 @@
     {
       "id": "4102598f062ac05e",
       "title": "Proposed H-1B Fee $103,265: Policy Brief",
-      "summary": "Proposed H-1B Fee $103,265: Policy Brief FWD.us",
+      "summary": "Proposed H-1B Fee $103,265: Policy Brief fwd.us",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5eHEwS0dvYWVkN1lFU0pPUDhHSTg3eGJwSWNUZnRtQTc0OWJXNzFDTm1CYkFNY3BfaHlneVZzVVRBejhkeHNv?oc=5",
-      "source_name": "FWD.us",
+      "source_name": "fwd.us",
       "published": "2026-09-02T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -2095,9 +2150,9 @@
     {
       "id": "b1f0232ed5297824",
       "title": "Some H-1B Spouses Could Lose Work Permits Under Trump Proposal",
-      "summary": "Some H-1B Spouses Could Lose Work Permits Under Trump Proposal newsweek.com",
+      "summary": "Some H-1B Spouses Could Lose Work Permits Under Trump Proposal Newsweek",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTl9uVkdfdzMzNnJVaEl0WmRURVBNLVhDekJoNWxpeW9lY251UkZZcnhLQzRCOFMxTHV3ZHI4dmJDRm81VnFVS3o1eG55NG1xQlFFUV9BNkJKQ09IVEJfSUJ5SHhNLTdOU2o2NHY0aWZZbkpMX0lBN0hLZkFIY0YyaUNrUlVfZWROTXkxYm1HNVFaQzFTcUxyUUh4SzU?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-08-30T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -2106,9 +2161,9 @@
     {
       "id": "0ede41aef7381352",
       "title": "Green Card Update: Report Shows Applicants With Longest Wait Times",
-      "summary": "Green Card Update: Report Shows Applicants With Longest Wait Times newsweek.com",
+      "summary": "Green Card Update: Report Shows Applicants With Longest Wait Times Newsweek",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNGdEMW9yQW50YzdTNmR3cU1rTENvR0MyUGNVcWhXWHRFdG02bnJINE80MzRsRHlnVGZXaHkydDBldEY4OTk4cXN2d2ktOWJjXzJwdEpXQjNra1VlbG5iMERSUjBlbGJkc09CWWVtai1BbXZtSGdIa29URVlQN1c4dHcwMUlqakZhemNUR01YLXMzUkk2X1QyVEZORkpkM2Nq?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-08-30T07:00:00+00:00",
       "categories": [
         "Green Card"
@@ -2159,6 +2214,17 @@
       ]
     },
     {
+      "id": "e3067980847e9df1",
+      "title": "Temporary Protected Status (TPS): An Overview",
+      "summary": "Temporary Protected Status (TPS): An Overview American Immigration Council",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzN1emNvUFJWQmJoN1R4T2dzXzJlYXNyVkpNQ0V5UGVJNVd2cG9vemtVeWhtM0ZHS09rbXRvY2x6aC01emVjZGxtaUJ3WjBDZTZtdVJSOEJZY3VseGx3THZpSGJXOUw5S1FsNmtBTXZQSkRUblBQU2pmYmJxQUtGM3c1VmpSUUx2RUlGUVdXLUgyd0xPZW5pZmt3?oc=5",
+      "source_name": "American Immigration Council",
+      "published": "2026-08-28T07:00:00+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
       "id": "7aa51d92d2d0f285",
       "title": "State Department Pauses Immigrant Visa Interviews Worldwide as Consular Officers Undergo New Public Charge Training",
       "summary": "State Department Pauses Immigrant Visa Interviews Worldwide as Consular Officers Undergo New Public Charge Training EB-5 Insights",
@@ -2183,9 +2249,9 @@
     {
       "id": "dcd9466e74988662",
       "title": "International students face drastic internship restrictions after ICE memos",
-      "summary": "International students face drastic internship restrictions after ICE memos Purdue Exponent",
+      "summary": "International students face drastic internship restrictions after ICE memos purdueexponent.org",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcFFaNG9NRWREMERKV1ZiR2lYVDlQR3E5SVFBbUYxaWRiVTUweGxGeGJGN0lZMk9uMXdSQVZqMWdxMlB4QTNTQVVtZWo1MGtmRG9IemxLajA3RXpIUHV4eUhaN21kanBvVEtncnUtaDdIb2hYWUNUVVE3TlRtYS03VW5relVOYUt0ZGcxRUZsNXJtMWlIWlBETUJEWFpKSGttSHBxU2NfTFpQNGV6Z1JxWWdhenduLXpJNjZRYmNPQ251aEo1YzU1NGR4cDFuWlBwTnVSbmRzU2h4LVhRTDhrb2RsRGFKVklPNTRJckFsTmpUNG1RV2YxX2plV3NoQW5VaVpMMFI4OA?oc=5",
-      "source_name": "Purdue Exponent",
+      "source_name": "purdueexponent.org",
       "published": "2026-08-27T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -2200,17 +2266,6 @@
       "published": "2026-08-27T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "e3067980847e9df1",
-      "title": "Temporary Protected Status (TPS): An Overview",
-      "summary": "Temporary Protected Status (TPS): An Overview American Immigration Council",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzN1emNvUFJWQmJoN1R4T2dzXzJlYXNyVkpNQ0V5UGVJNVd2cG9vemtVeWhtM0ZHS09rbXRvY2x6aC01emVjZGxtaUJ3WjBDZTZtdVJSOEJZY3VseGx3THZpSGJXOUw5S1FsNmtBTXZQSkRUblBQU2pmYmJxQUtGM3c1VmpSUUx2RUlGUVdXLUgyd0xPZW5pZmt3?oc=5",
-      "source_name": "American Immigration Council",
-      "published": "2026-08-27T07:00:00+00:00",
-      "categories": [
-        "Green Card"
       ]
     },
     {
@@ -2326,9 +2381,9 @@
     {
       "id": "dc749f36c9111f12",
       "title": "Got a New I-485J Notice for an Old Case? Don’t Panic",
-      "summary": "Got a New I-485J Notice for an Old Case? Don’t Panic Reddy Neumann Brown PC",
+      "summary": "Got a New I-485J Notice for an Old Case? Don’t Panic rnlawgroup.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0pmZjA3bkJMM0VwamlzaGNCbXNsTWxObWRJbTlkM1pFamdnQUo3UzNyeklUNmVKMWtla3gtZGh5clRUZWNfQTh0SjUzWlBZZGNjb1oyX3BrS2h0dW9NdmhGV3ptdHdUcVB5MmRUR0lHUVd6Y2R0cVJRVFBud3cycHVpb3U?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "source_name": "rnlawgroup.com",
       "published": "2026-08-25T07:00:00+00:00",
       "categories": [
         "Green Card"
@@ -2447,9 +2502,9 @@
     {
       "id": "c03a0fdb9e70bc98",
       "title": "Green Card Update: Changes Happening to Applications in September",
-      "summary": "Green Card Update: Changes Happening to Applications in September newsweek.com",
+      "summary": "Green Card Update: Changes Happening to Applications in September Newsweek",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeXNvNmNPOGtpQzEweW1oQmdrT2I3QmU5dkJzT1ZaTXhGX2F5RTgwRG9qNmpDUzFzTUJpc25PUnAyZHhxb0VKbE5XZGpUd0VfZHdGV056UjNFdGZzd0otbnZZNktFZ2dwVm9lWXplOXh6TW9FSnllSlhoVHl3R1ZxdHZ3U3prQ1hhNUczR1I4STJ4c0FMOUtYejJUSFdOMEIxQzVHTQ?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-08-22T07:00:00+00:00",
       "categories": [
         "Green Card"
@@ -2480,9 +2535,9 @@
     {
       "id": "a9b2b8196517ce8a",
       "title": "A seemingly technical change to international student visas could disrupt teaching and research at US universities",
-      "summary": "A seemingly technical change to international student visas could disrupt teaching and research at US universities theconversation.com",
+      "summary": "A seemingly technical change to international student visas could disrupt teaching and research at US universities The Conversation",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMDJxVTExWWdack54TnR6YVlBV1VfbjlpUmlRTjJlOGtURWhJQWpqVW5EMFB3aEdGRUVjb3RONVlrNXN3SUJlOXpLY2pYWS0weUJTc3dEV2FmR00ycnkzR0lGNjNpY1RLYlRTWWNaTFdyajdKSlNOUnBHUzl4WjE5MVgyWHVrV0RUWWJPclJXUlJPNmdlcmpoTnhLTWxDbTNwT051S2hmSEdLMmR5cEU2V1BKUXl0S0dPaWN1VFVKSEgzSDNkbmw4bjhBRE5iZWpVSnlKZktiUnAtX2lfeUwyc2tZNA?oc=5",
-      "source_name": "theconversation.com",
+      "source_name": "The Conversation",
       "published": "2026-08-21T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -2578,17 +2633,6 @@
       ]
     },
     {
-      "id": "60132f71dcb45769",
-      "title": "Gov. Abbott proposes ban on H-1B visa use for Texas public schools during campaign stop",
-      "summary": "Gov. Abbott proposes ban on H-1B visa use for Texas public schools during campaign stop The Texas Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUkhEc1NiUmIxQTFHMmVSTl92dGhORUVUTHZNdDRaa1dEQzk2YmhvQkNQSHBuV2dtZjVyb1NrY2RPUDdtVkRSbGtoYVpxTHJDamJpYW9GQmNZa2w4TkdkTEFsU2NQMjFzWEpvUXRtN09Vc3VKamRhMmczSTlrZnc3S0p1VXk1N0NBOE9R?oc=5",
-      "source_name": "The Texas Tribune",
-      "published": "2026-08-18T07:00:00+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "2af614fe436eb3df",
       "title": "Universities sue DHS over four-year visa cap",
       "summary": "Universities sue DHS over four-year visa cap Courthouse News",
@@ -2622,17 +2666,6 @@
       ]
     },
     {
-      "id": "399b6561516e601e",
-      "title": "USCIS Issues New Public Charge Guidance Ahead of September 2026 Rule Changes",
-      "summary": "USCIS Issues New Public Charge Guidance Ahead of September 2026 Rule Changes Erickson Immigration Group",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1M2cm5SZVpNNi1mRzRjZFp5TmNIMDd1NTZnYjlidlRpQTlKY1RjeVJHdHJ5dEI0SXZtZzFxdUJTUHdIWVR0ZlFWTG1sdF9HSWRCdTNURGVGN3RqNmlXcVYyWWhuYXJHQVlWRkZXa0xuc1ZJbkFvU0R4ZHV4Zzk3bVdCMFVvQWFzNWttM1B6cnJRaHlJV3c1V1NXR04?oc=5",
-      "source_name": "Erickson Immigration Group",
-      "published": "2026-08-18T07:00:00+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
       "id": "421fc6f7fb2f67ed",
       "title": "Trump Officials Now Restricting All Legal Immigration Categories",
       "summary": "Trump Officials Now Restricting All Legal Immigration Categories Forbes",
@@ -2646,23 +2679,12 @@
     {
       "id": "0a7bfce6cbe7b798",
       "title": "DOL Processing Times for PWD and PERM Applications: August 2026 Update",
-      "summary": "DOL Processing Times for PWD and PERM Applications: August 2026 Update Reddy Neumann Brown PC",
+      "summary": "DOL Processing Times for PWD and PERM Applications: August 2026 Update rnlawgroup.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXROelh6NTI2ekRrWllhd3BVSUU3aUVPTVFYTWtwTnQyNjdlTThvZHJnRk9iSU00LVMtNWNkWFJURmJFTGtOUTFWczdFeGNJampyV0l1WUpwcTBEZ2M3ZEtkd2ctOE9fNkhlWnFoZF80MVpXTGpyRXVyM1lDcm04NFBlSy1jQlNlX3ZIV0tnaHdyV1JkVUVfREkyVEw1dw?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "source_name": "rnlawgroup.com",
       "published": "2026-08-17T07:00:00+00:00",
       "categories": [
         "PERM"
-      ]
-    },
-    {
-      "id": "23991e9516ad6d7b",
-      "title": "DHS to propose end of 60-day grace period for H-1B visa holders",
-      "summary": "DHS to propose end of 60-day grace period for H-1B visa holders HR Dive",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSms2UFNxZ2NYVy1kTGZ4RkFnWkQwUkJJejhPRzhrM294ZUdyRVY0OGFJNXRkMkl3NjdnRmtjT0J4V0tvTHFCVGR5MlZ3VUZmQ2RnNDhWbVZRWlI5ck5pUERrMVpDcHVnQzlTUkxaSzRucnQxSkdxY09qSGZ0Vl9zQzdJMjRsZU5sYTdoZTNtTUJYQVNvaFlWeFZQeWdMazhY?oc=5",
-      "source_name": "HR Dive",
-      "published": "2026-08-14T07:00:00+00:00",
-      "categories": [
-        "H-1B"
       ]
     },
     {
@@ -2780,9 +2802,9 @@
     {
       "id": "ed98225a88829ffc",
       "title": "US Senator seeks tighter H-1B hiring practices over concerns about foreign workers replacing Americans",
-      "summary": "US Senator seeks tighter H-1B hiring practices over concerns about foreign workers replacing Americans livemint.com",
+      "summary": "US Senator seeks tighter H-1B hiring practices over concerns about foreign workers replacing Americans Livemint",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQY1ZvWVpvQUtCX1pRY1BCMHRZeVpCdnNaaEJPdkRqREFnNmZzNUlFa2YwWEJQV29aQXBZNUhYakQzbjhyOWpGUW44Y1ZpRGVMbUJjcmdHT0FSOGd2VmNXZnNKZ1gtbkpWXzdyc0FWRDRURGJlRnpkV0FGS1NIcldrM3lTZmpuNlB5aGVUeU1ZOEhvUEhGZ0ZOckdWZ0NoWlBSZmJxMFlGMHFMVXJQRWF6QlZNS0V2R294SW5iSWdSR3hSdENfSjVpcDJuM0laZ3FkYlZDNFRZdDNnbkVtd0VTcjhBeVFYSjhPUEZMckR2dFl0QdIB9wFBVV95cUxNdkhTRU4wdEpaN0J2R3BFMzh0cmRNUlZLdDlNRmc3bnByUTJ1OFdERUo3S1NsZU51Sk9RX1YzbXNRbnNpdnR1X1lIWG5MMHhNZWVaOXFVYllGaGZwSVBEeGNBcDNiSWplbnRYR3E1d0pqQ3BrOWNFVzI2WWtIVlVaX3k5NXZMTkpfMnVNajFxWlBCeGlfeXhEcEVVMkdySkZ0WHMwbUhLRTlzVDA3bHNjQmZ6WnVPcjdaWXdQY25VZDhkVXp1OHdpckQ0SFdyVlhNLV9sWjJfbnNQeDZyTXJDQlJHQTNtb0RoczYyYzcyaWlvaTZHOXI4?oc=5",
-      "source_name": "livemint.com",
+      "source_name": "Livemint",
       "published": "2026-08-10T07:00:00+00:00",
       "categories": [
         "H-1B",
@@ -2836,9 +2858,9 @@
     {
       "id": "5e1560ae1b2fa925",
       "title": "New federal rule caps visa durations for international students, scholars",
-      "summary": "New federal rule caps visa durations for international students, scholars browndailyherald.com",
+      "summary": "New federal rule caps visa durations for international students, scholars Brown Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRjktTUpvZUVKeF9CbF85RE9menZyR2RJMThPMVdLQWI0eFpCUC15aVNBcjlqeGZ1cEJZV2FPV3lKTUF2ZGlMVEZqVXJNb3ZIU2JfZzhqS0lZYXRWSUYyVU05SkM0WEZtcm5oZTlkMkNja3BUQmNndGp3Nm1mN2tQZ1BVOWJ3ZVJVS3lqNEFXQmd5eU0zYUZTdzlsU25Xbkw3SU5BdWFWTzRPTWs2Y1hBMHBSeHRGSkFsVVJlbVJiNA?oc=5",
-      "source_name": "browndailyherald.com",
+      "source_name": "Brown Daily Herald",
       "published": "2026-08-05T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -2891,9 +2913,9 @@
     {
       "id": "5bb9064f92450e0e",
       "title": "Changing visa rules create doubt for students and employers",
-      "summary": "Changing visa rules create doubt for students and employers sdnewswatch.org",
+      "summary": "Changing visa rules create doubt for students and employers South Dakota News Watch",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmNqUlRKZEswZUlrd0tWOFVSbk9IZzZNZHVKeWN3Q25xWUVJYWp2Ml9SSUZ3Yk1MdGRaQlFub2k5VFFISFFDeW5McU9kQXd6MThfQTIySlZIY0pWRFRvR1J0Uk9RbEVmcEpVYW9CU2h1c3Fsc0xnVVZMZlQtaGtPMHpQMWNUQk5qbnd3LWtiYUhjNzBkbzVCMQ?oc=5",
-      "source_name": "sdnewswatch.org",
+      "source_name": "South Dakota News Watch",
       "published": "2026-08-04T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -2913,9 +2935,9 @@
     {
       "id": "2be1057a3eb65ba2",
       "title": "Using an I-140 from a Former Employer: How a Company You No Longer Work For Can Sign Your Supplement J",
-      "summary": "Using an I-140 from a Former Employer: How a Company You No Longer Work For Can Sign Your Supplement J Reddy Neumann Brown PC",
+      "summary": "Using an I-140 from a Former Employer: How a Company You No Longer Work For Can Sign Your Supplement J rnlawgroup.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFVHRW1OekJQRTdvSG9YTDlUZDhGOTByOHhkX01LeWFQR2JkT0ZpY0NPYmN3Z1Zub0NkOXBobGRYZEQ5cDBEa3IyUnhTZWNhY2oydXlhZDU3WDB2WVN3TG9haUh0YldlOGZrWEs2UWw2cXlmUk1tR2RRNWlhdW9aQ2hvYkh6TFlJdmRpTkdoekNacnJZRU9vMjhCTDRSNE5sazhlcmJ6LXZBcDVCS3hXYi1nSEM1YkpNWkFScjVOYnlXZ0lEeWZzRQ?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "source_name": "rnlawgroup.com",
       "published": "2026-08-04T07:00:00+00:00",
       "categories": [
         "I-140",
@@ -2925,9 +2947,9 @@
     {
       "id": "f806c97edbaa6611",
       "title": "PERM Processing Times Update: Continued Signs of Improvement Amid Ongoing Backlogs",
-      "summary": "PERM Processing Times Update: Continued Signs of Improvement Amid Ongoing Backlogs Reddy Neumann Brown PC",
+      "summary": "PERM Processing Times Update: Continued Signs of Improvement Amid Ongoing Backlogs rnlawgroup.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGJuYzdrbmdwODhNWEFfX1NXUE0wQWxuOEh2VG50Z3hmcWtwRFFxVkZ0a3VJeXVuNDlUeHVra2U5UWcyRXYwdHpQSWNxa0hZQzJqMmU3OXR3Z2VlVGV4dWQtVjh6N1Q1MVA0bjNiNFltRGFma3o0VFBDemY3dkVLZkZjU0pnNTZuZkdkRjBkVDl6LU1md3VUb0xhaGp2Zm9nMFNucHoyeU9rVFR4MEE?oc=5",
-      "source_name": "Reddy Neumann Brown PC",
+      "source_name": "rnlawgroup.com",
       "published": "2026-08-04T07:00:00+00:00",
       "categories": [
         "PERM"
@@ -2947,9 +2969,9 @@
     {
       "id": "5d4ebfe800def567",
       "title": "Trump Administration's F-1 Student Visa Rule Will Penalize Talent",
-      "summary": "Trump Administration's F-1 Student Visa Rule Will Penalize Talent City Journal",
+      "summary": "Trump Administration's F-1 Student Visa Rule Will Penalize Talent city-journal.org",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR3BwNXVRaTZJaDV3ZmlDMVNoU3hUdXhOSFRQeTBfcjlteEFNOXp4OG4wYW9mRGo2eE9KX0R6TG91SkZFT2JMbTk5aDVZOTM0Rmo2UkVYS3d4TEJmdDBhdWJIaXA2MktJWmtfNjgydERfZmlnQTY3TzluOTNmbmtGTg?oc=5",
-      "source_name": "City Journal",
+      "source_name": "city-journal.org",
       "published": "2026-07-31T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
@@ -2958,9 +2980,9 @@
     {
       "id": "0eccd4ae228aa3b7",
       "title": "Green Card Update: Changes Happening to Applications in August",
-      "summary": "Green Card Update: Changes Happening to Applications in August newsweek.com",
+      "summary": "Green Card Update: Changes Happening to Applications in August Newsweek",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU21IQWN2R1hpS01HemZxUnE4a2paUUZVTXRQcHRfa3pDNWhWN3AxMlN1WEQtdFEtQlBQbW5wNzJqY1hPWUQ3MXNtSjdkX05RYVFkTVVTRnA1VnlaYloxQ2RQR3phMWpQWWR1eTFheXVLSVhLYU93cGNFYVZrb1pqTXlJalVFdw?oc=5",
-      "source_name": "newsweek.com",
+      "source_name": "Newsweek",
       "published": "2026-07-31T07:00:00+00:00",
       "categories": [
         "Green Card"
@@ -3011,6 +3033,17 @@
       ]
     },
     {
+      "id": "271521de9a7a24ca",
+      "title": "USCIS Wants More Green Card Cases Processed Abroad: Is the State Department Prepared?",
+      "summary": "USCIS Wants More Green Card Cases Processed Abroad: Is the State Department Prepared? The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFk4aDE1eC13SFQ1OWduZ2Zma3hhalVlS25KMjhvLUdpSU9tZVBRb0xNSmc4M3JKR2VVVTJYVWhiejh4MWtBelZqZkQ4OG9PRndIQklkSks3SEFlLUJqNVgzejJPSXh3emM5RDVFZTNxamhPdGFOOUNEamRrMGpPenEzQkE3b2pyVVRUd19kZ1lKRXhkdFVmNUNJTEowNE1WQnotT1dhMGR6NXhSVFHSAbMBQVVfeXFMTXQ5aU9YTV96UkMybWJldmJMQVFYbnpYZG5PVG5CanFXal9Tekw5aEt5WW9FQ25KOUdfeGxOenFmWGptVzAxcXNzaTNZMGxiZHdpdElvVGR2UWdyMUFtajc0a21oalRzVlB0aXpERzU3TVVGaWphOHp4UFZlQVZyNUR6T1J5U0RnUnlnUm96SUpnZjBkRV9xNVc3dTUtNDIyQ0RQaHNjOUUwWk5hcXFwbVNvTmc?oc=5",
+      "source_name": "The National Law Review",
+      "published": "2026-07-28T22:08:41+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
       "id": "b0af4b5dd2df7117",
       "title": "How Will New Student Visa Rules Impact Athletics?",
       "summary": "How Will New Student Visa Rules Impact Athletics? Inside Higher Ed",
@@ -3019,28 +3052,6 @@
       "published": "2026-07-28T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "271521de9a7a24ca",
-      "title": "USCIS Wants More Green Card Cases Processed Abroad: Is the State Department Prepared?",
-      "summary": "USCIS Wants More Green Card Cases Processed Abroad: Is the State Department Prepared? The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFk4aDE1eC13SFQ1OWduZ2Zma3hhalVlS25KMjhvLUdpSU9tZVBRb0xNSmc4M3JKR2VVVTJYVWhiejh4MWtBelZqZkQ4OG9PRndIQklkSks3SEFlLUJqNVgzejJPSXh3emM5RDVFZTNxamhPdGFOOUNEamRrMGpPenEzQkE3b2pyVVRUd19kZ1lKRXhkdFVmNUNJTEowNE1WQnotT1dhMGR6NXhSVFHSAbMBQVVfeXFMTXQ5aU9YTV96UkMybWJldmJMQVFYbnpYZG5PVG5CanFXal9Tekw5aEt5WW9FQ25KOUdfeGxOenFmWGptVzAxcXNzaTNZMGxiZHdpdElvVGR2UWdyMUFtajc0a21oalRzVlB0aXpERzU3TVVGaWphOHp4UFZlQVZyNUR6T1J5U0RnUnlnUm96SUpnZjBkRV9xNVc3dTUtNDIyQ0RQaHNjOUUwWk5hcXFwbVNvTmc?oc=5",
-      "source_name": "The National Law Review",
-      "published": "2026-07-28T07:00:00+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
-      "id": "82a385d5ca8d559e",
-      "title": "USCIS Announces Rule Change to Asylum System to Reduce Backlog",
-      "summary": "The United States Department of Homeland Security (DHS) released the following statement after U.S. Citizenship and Immigration Services (USCIS) announced a rule change designed to reduce the backlog in the asylum system.",
-      "url": "https://www.uscis.gov/newsroom/news-releases/uscis-announces-rule-change-to-asylum-system-to-reduce-backlog",
-      "source_name": "USCIS Newsroom",
-      "published": "2026-07-27T13:39:28+00:00",
-      "categories": [
-        "Official USCIS News"
       ]
     }
   ]
