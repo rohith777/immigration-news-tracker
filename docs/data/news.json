@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-10-13T22:48:09+00:00",
-  "item_count": 359,
+  "generated_at": "2026-10-14T04:57:30+00:00",
+  "item_count": 357,
   "items": [
+    {
+      "id": "f38e2372400ada7f",
+      "title": "DHS looks to charge $70K fee for international student work authorization",
+      "summary": "DHS looks to charge $70K fee for international student work authorization Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcHJQbnN5TTlyTC1iNHBfODVRSXJUNmdXdUNBWVFCZHFlSjQ5WjR5S1RiNG9jbV82V1pXdWs3MlhBRkE0ZWdTZ1diY080aVNIT0J6VnprZXRaZkxNcWdndm9aMFpQQ2FfV185U1dHWkw1UFA1NDJkRjZXM3Z2bWMwRGtSU2YzNVdkaDh2ZmZPNWNGV1NRXzExRFdUMFVmNy1BbHZqeVFfSElFQQ?oc=5",
+      "source_name": "Daily Bruin",
+      "published": "2026-10-13T23:55:00+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
+      ]
+    },
+    {
+      "id": "3a121216cff84cde",
+      "title": "Trump administration suspends employment-based green card process for eight major tech firms",
+      "summary": "Trump administration suspends employment-based green card process for eight major tech firms News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazE3OUlSQnFSQlBEbVlqMW9CaDBLQXJiVmRBbjZuSE9BczMyTC1HMUtMT1RoZ3lISWhKak1SZzFvQTM5YUtYVjNuQ0JlNWJhZVBsdUNVN2dmMldCdkk4NTlHVUo3cE1uYTJFcEZLMVgyeEZUZG9sX0pfdFczdWEzcVlMNHl5eTdXSkhFU2RYYVc2dlFtREJZWktHUG9HVE9pV2RGU2VZYjNFZFBDTXNhcTQ4aGRrSklvdVE?oc=5",
+      "source_name": "News On AIR",
+      "published": "2026-10-13T22:31:04+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "eb90a5a09ff3ed67",
+      "title": "Public comments flood US government websites over proposed H-1B, OPT fee hikes",
+      "summary": "Public comments flood US government websites over proposed H-1B, OPT fee hikes South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmR3NTdRTUlyYzQtcXliWElMb2tLNDltR3VybnRIWkt2akdVaUhLdWhOa0U1ejg1eGJHcEl5dmJCbFYtWUlLVWtNOUx5Q2ItZjdwSWRXSEhOODYyQ29vd3hOalgxWmVWbC1qNzhreWpuXzlzZE4yeVhDb01nbEQ5dm9hWFJvdE5lRWI0Nmg5T094RlVBYktQdGZuV3BURk5MekhVQWZ1RUlVbk9EbE1sdTVCSGZ6Vlg1dUpRVmgxUdIBvwFBVV95cUxPSTc0SnRVUTU5UU95X25FLXVwd2NuMHdRelM4OTl4SHRTN21aMHE2MThKaThUN0poZjVOTWhsdFlrVHdlcGUtTVpKMkVhaGlYclpDTWNJS2lOMXl1MFRadlBjTU5lQVhyWDRsNThlTVBhLXdza0FOOFROcU90aXc3YTBreVNFU3FmQUVLeTM3YjhKeTNoa3hTZFFxT0ZKb1Fac1JqOXF1SGJacmluWkFFa05rNFRWSF9MdUg0WFltQQ?oc=5",
+      "source_name": "South China Morning Post",
+      "published": "2026-10-13T22:17:08+00:00",
+      "categories": [
+        "H-1B",
+        "F-1 / OPT / CPT"
+      ]
+    },
+    {
+      "id": "272678beeb1181f5",
+      "title": "DHS Proposes New OPT Fee as International Students Face New Restrictions",
+      "summary": "DHS Proposes New OPT Fee as International Students Face New Restrictions American Council on Education",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUY01XSkh2VDd2T20wdUpMVDR5aEhxT3hIbmw1VHFJRE5hRzlrMEVGVGZUT1pZN2tramZZSjh0UEdVbXFPTDc0XzVfMUpVR0RxVzVYV2MtZTVZaFU0REoyTGVRZWFOam5tZ1FmMHNHUXVaM2JkVmhV?oc=5",
+      "source_name": "American Council on Education",
+      "published": "2026-10-13T22:04:49+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
+      ]
+    },
     {
       "id": "81aaaa9b7bbd8739",
       "title": "DHS proposal ends deference to prior H-1B approvals",
@@ -22,6 +67,17 @@
       "published": "2026-10-13T21:26:48+00:00",
       "categories": [
         "Green Card"
+      ]
+    },
+    {
+      "id": "a2948c45ce107ac0",
+      "title": "Congressional delegation calls on DOJ to investigate visa abuse in Chicago",
+      "summary": "Congressional delegation calls on DOJ to investigate visa abuse in Chicago www.cities929.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnZtYlRHNjc2Xy1tbkF6a2dYQjJIQjNpNENUSzk2cGl3bEJ2XzBRc0t2NXV4cjJWbGw1ZUFTeEZrS1NjZm1aN3NIWjlPVUQ3LTdfNlBRNnUyVXh0VkV0RDlLNFdfcXNOenlnNEd1cVM2ckZRZ1kxWVhfM3l2aHZHUHlnSnQ3eU1nRm5SdEJGTEdhcGtEbzU3aWRtNDZPX3NockdmRmdJLXlWNFhsQUN3clJ3?oc=5",
+      "source_name": "www.cities929.com",
+      "published": "2026-10-13T21:22:11+00:00",
+      "categories": [
+        "H-1B"
       ]
     },
     {
@@ -74,7 +130,7 @@
       "summary": "Indians Account For 79% Of Employment Green Card Backlog, Face 179-Year Wait IndiaWest",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0hGTjFuVW5SaEx3UENXWHdCZmRQNFFtV3NZaTEzYjBldXNfcDJiY1JGOTZkQW5ONDdEZWFPZU9TMk1wNU5sZEVLbDFta08xMTV3bUVkZGRjVDJRbjBQX1l0cGJOR2JZYUFTU1B0ZEZ6UnhWMzVOMmpsWmx1NXlFaDMtanlUeDUzdWNGRWtVLUF1NTJ4SldoeXpiejI0UQ?oc=5",
       "source_name": "IndiaWest",
-      "published": "2026-10-13T17:03:30+00:00",
+      "published": "2026-10-13T17:03:36+00:00",
       "categories": [
         "Green Card"
       ]
@@ -124,17 +180,6 @@
       ]
     },
     {
-      "id": "ba29df86b384175d",
-      "title": "US moves to end H-1B extension deference, automatic work permit renewals",
-      "summary": "US moves to end H-1B extension deference, automatic work permit renewals OrissaPOST",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0ltMWNlNjhqZGlnNEdpNmtZYVVGRG4xSTU3Vm51a2Zta2JNV0pFdUdSeEZodXB3S2JTQ3V4dFV5ZHhhb1doalB3Y0NWWHlCYXBiQlZEZkFNb3A4czZSenE5RTNkNWhXbnBpRGU4OUtzcWFBVDRfNVdxaVY2YkpjNDF0OXNWSXFYNTJhOVA2UEoxOHkyWmd1UERHbW1pbHQ20gGgAUFVX3lxTE9LSW0xY2U2OGpkaWc0R2k2a1lhVUZEbjFJNTdWbnVrZm1rYk1XSkV1R1J4Rmh1cHdLYlNDdXh0VXlkeGFvV2hqUHdjQ1ZYeUJhcGJCVkRmQU1vcDhzNlJ6cTlFM2Q1aFducGlEZTg5S3NxYUFUNF81V3FpVjZiSmM0MXQ5c1ZJcVg1MmE5UDZQSjE4eTJaZ3VQREdtbWlsdDY?oc=5",
-      "source_name": "OrissaPOST",
-      "published": "2026-10-13T15:22:27+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "ce2b8076caa8d3b9",
       "title": "Banning Microsoft from Bringing Immigrants is a Big Mistake",
       "summary": "Banning Microsoft from Bringing Immigrants is a Big Mistake City Journal Substack",
@@ -146,35 +191,12 @@
       ]
     },
     {
-      "id": "ea9ebf0be5308af0",
-      "title": "What the US PERM Freeze Really Costs India’s IT Industry",
-      "summary": "What the US PERM Freeze Really Costs India’s IT Industry The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMnQxRkNhYTItaXllT0ZjVHFnY1BETjU5Q1lDMmpFVEk1Tkt1MW03NkRqNkpaWWV0TkNPdXRrVjZpc29sNzd1QjFVc0hpMF9XRnRfdDl4VU5SUHVrUUh5Y0pQNjdKTUxZbUxlNmRHbnZPSWNXU3E0NGwzNF9oVkhaNk5ranJDOWZBSXF2VTIzWmdJZw?oc=5",
-      "source_name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "published": "2026-10-13T15:10:06+00:00",
-      "categories": [
-        "PERM",
-        "Green Card"
-      ]
-    },
-    {
       "id": "e70b8be45d7c0de4",
       "title": "Microsoft reacts to claims of underpaying H-1B visa holders: ‘Our wages are among the highest’",
       "summary": "Microsoft reacts to claims of underpaying H-1B visa holders: ‘Our wages are among the highest’ Moneycontrol.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSkdBamQyZTZoaHA5dU1ZZnJGOTJuMTg4UjZsS0pNY3lEY204TjZ1dk1TeFdPZXBnUWpKOVdCcUdsRmozZGl6Y0NKazFJdWF6Nk9MZ1djUmlVT1g0Z0p1WlJLQ3JiZ2RFLTdvSWFkUXd1YnVkZ0ZZSkZlRzFNSzR3bW50UXk3RlQ2OEY3LXhvMEVUb0tTRHNkZjlxWXhDNVBWUzd2TlRLRTJRdFFDdU9TcU1iaTh3WTFfTU5uQ2tLcmlMYlJkUS1vQmN4VWtCNnQ2NVlwN0RmWVdGM0VFclhz0gHkAUFVX3lxTFB4TjZZc1VNdkk2d0FNc3hjOUJ2U1dFQ3M3VHNXZW1RaFFvdVJad2VpS3dJcTctdW5nTzl3YThPd2FPUkk1Qk9wa19GRzJQaXI3TUk1d0ROUmVMV3JQWW5WVUNoSGlnSGV4cjlWaWRIc001LUlheFJPY2sxWHFVSmlOSFRMZWFsZXlRdzVwY2lYa1lQUWNNSDU3WE4xUW5fQXhCVVJRYWtjYUc2OE5OZ1pHSFB4cnVtVjNsNnBPTjBaMlROaTQtRVZFLVRUOEp3WU5nbDRzd1hEemRXTEJyV0VFYzhFeA?oc=5",
       "source_name": "Moneycontrol.com",
       "published": "2026-10-13T14:58:37+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
-      "id": "5060469daeb4e65f",
-      "title": "Congressional delegation calls on DOJ to investigate visa abuse in Chicago",
-      "summary": "Congressional delegation calls on DOJ to investigate visa abuse in Chicago The Center Square",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaW5fUmdoVzZ0Vm9HZ2tOZk9tOV96dEJQa1V2WDk0dlFFYTBGT1pTSVRMX2RoQlNpUVlEZ2hoUzBVdDFqRnpsS2NJTl94YWcxbmRReDJpdzI2LU5SMzV4dGRkV1l3YUZ5LThNVklOV3dEb0l4QUJxaG1sMUgyLTJDUnRxOUNsQzNOdnpETnNYajRpc3VP0gGaAUFVX3lxTFBwbldHVFFMY2oyVThIVHBfaDhpcHhIdzQxczh1OUwwZHNleVVkTFhPdkZnT3lVd21VRWlRMm5DZ0tLaE5HLXVkVGt2a2p6Vm9jbjgyOGkzVDktQUctMzctdWpwSXJWOFc4eTVsbmMteXM4clpld3BNNG9ZSnEtQUljQTNvcnF3bm5qQ1RwanpkcDFPd1VlRUt1Y2c?oc=5",
-      "source_name": "The Center Square",
-      "published": "2026-10-13T13:51:00+00:00",
       "categories": [
         "H-1B"
       ]
@@ -270,17 +292,6 @@
       ]
     },
     {
-      "id": "3a121216cff84cde",
-      "title": "Trump administration suspends employment-based green card process for eight major tech firms",
-      "summary": "Trump administration suspends employment-based green card process for eight major tech firms News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazE3OUlSQnFSQlBEbVlqMW9CaDBLQXJiVmRBbjZuSE9BczMyTC1HMUtMT1RoZ3lISWhKak1SZzFvQTM5YUtYVjNuQ0JlNWJhZVBsdUNVN2dmMldCdkk4NTlHVUo3cE1uYTJFcEZLMVgyeEZUZG9sX0pfdFczdWEzcVlMNHl5eTdXSkhFU2RYYVc2dlFtREJZWktHUG9HVE9pV2RGU2VZYjNFZFBDTXNhcTQ4aGRrSklvdVE?oc=5",
-      "source_name": "News On AIR",
-      "published": "2026-10-13T08:38:38+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
       "id": "339b2f0c4ba5588e",
       "title": "'Lay me off, I dare you’: Amazon techie says H-1B crackdown, green card suspensions could reshape US job...",
       "summary": "'Lay me off, I dare you’: Amazon techie says H-1B crackdown, green card suspensions could reshape US job... Moneycontrol.com",
@@ -337,17 +348,6 @@
       ]
     },
     {
-      "id": "272678beeb1181f5",
-      "title": "DHS Proposes New OPT Fee as International Students Face New Restrictions",
-      "summary": "DHS Proposes New OPT Fee as International Students Face New Restrictions American Council on Education",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUY01XSkh2VDd2T20wdUpMVDR5aEhxT3hIbmw1VHFJRE5hRzlrMEVGVGZUT1pZN2tramZZSjh0UEdVbXFPTDc0XzVfMUpVR0RxVzVYV2MtZTVZaFU0REoyTGVRZWFOam5tZ1FmMHNHUXVaM2JkVmhV?oc=5",
-      "source_name": "American Council on Education",
-      "published": "2026-10-13T02:23:42+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
-      ]
-    },
-    {
       "id": "f557c39c94104f09",
       "title": "The Faculty Senate discusses international student visa policies, parking challenges",
       "summary": "The Faculty Senate discusses international student visa policies, parking challenges The Cavalier Daily",
@@ -364,7 +364,7 @@
       "summary": "Trump administration proposes $70,000 fee for international students applying for work experience The Daily Tar Heel",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUJxbXZDeGZiYnk1N3FmNHdJNlZnS0FMbkMyNm91bXZJdnVWVUhmLVhDVTZNZFVlMUdqZGRxMEZ3aDVNNURfSkpZblRLX3JZd08xY3Y5OTJrYk5TcVVEbUN6UTN5UUJSMURNNFVJSmxXUm1ZMVdkcU51NEUwZ2JYSmlwQVA?oc=5",
       "source_name": "The Daily Tar Heel",
-      "published": "2026-10-13T00:17:21+00:00",
+      "published": "2026-10-13T00:17:43+00:00",
       "categories": [
         "F-1 / OPT / CPT"
       ]
@@ -483,12 +483,12 @@
       ]
     },
     {
-      "id": "0f4e01c2d4dafc1f",
+      "id": "c76954d4165ed1e3",
       "title": "Two-thirds of Microsoft's H-1B approvals went to existing staff",
       "summary": "Two-thirds of Microsoft's H-1B approvals went to existing staff Human Resources Director",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeU1BTWxFS1VBZXdNTXJGMjdVWWtiaE5TbTFTWWJOTW51dXZRX3hsdmZhNWxUcDM2NHNlRnV1bEVIUXZhTnQ2UUQ1NWZJNjRva3JiYUkyWDdMUHBBUWprM0NhQjJQZGxnUFFuS1BHNlhUbWoxVFpLRjJlTHNhZmM0aF9sNzRUZjg3eGpWekJyZEVsd3Fmc21NVDB3bFJzZGJkaDBGajd6Ykp3aG5P?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2FzMFFVdXA2eWRjamxYcmxUN1huNXprbnJZRnN1UHRQVHZla3RrMXdqZ2ZkckN1OTlYQmVBU2c2N1NuS2p5NHVFS1RjRmpBWnNiY2c2RGg5UFFJbG83clktTG9EWFE4VVV4ckdfOTJSZ1JHSzdRQ05JQWpVRl9Zb1BSQm96Q3FsaVU0VUU0LWhlRkRNRUdfTTczbkw2TWYwdl9rd3BtLWppb09L?oc=5",
       "source_name": "Human Resources Director",
-      "published": "2026-10-12T06:34:59+00:00",
+      "published": "2026-10-12T06:35:38+00:00",
       "categories": [
         "H-1B"
       ]
@@ -744,6 +744,18 @@
       ]
     },
     {
+      "id": "c6cd96533fd733eb",
+      "title": "Green Card, H-1B fuel US growth: USISPF",
+      "summary": "Green Card, H-1B fuel US growth: USISPF India Tribune - Chicago",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOVM3YWt5Tmp6M0ZCVXVBemJCeTYtV1oxQWZPTFVaMjBEODhzb1V2SzVrSmw2UzhjdXhuX0VlVDRUckFIcDNtYjV0UHpVM1AwYXRqUFp2VFptWUhUaEZlcXJsYWJvWmI0NXg4Mk5rX08tWFJfWHd2cS1iMWU2QkZoU01vX2hsbnJ4VGtv?oc=5",
+      "source_name": "India Tribune - Chicago",
+      "published": "2026-10-10T14:17:09+00:00",
+      "categories": [
+        "H-1B",
+        "Green Card"
+      ]
+    },
+    {
       "id": "66a8497846bcf544",
       "title": "H-1B, Green Card Pathways Key To U.S. Growth And Innovation, USISPF Says",
       "summary": "H-1B, Green Card Pathways Key To U.S. Growth And Innovation, USISPF Says indica News",
@@ -756,12 +768,12 @@
       ]
     },
     {
-      "id": "4ca740569b26a5e1",
-      "title": "Trump Administration Brings The Hammer Down On Microsoft After Vance Said The Company Laid Off “6,000 American Workers” While Getting 6,300 H-1B Visas For Foreign Workers",
-      "summary": "Trump Administration Brings The Hammer Down On Microsoft After Vance Said The Company Laid Off “6,000 American Workers” While Getting 6,300 H-1B Visas For Foreign Workers Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGU3RFczUkpUMldmeXZCRFhSb09ic3RXQ0xGNHllNDY4b3FYVlFlYUdfSDdWY0ptMDZkTHhMb01NUWtqYlYzZWJVSGlCNDNsazdyMDVtcWowS3dmRlB2c0lxUlptWjZoRTMycE5xbFdHWWx2OXY2QlZoSWJ6SzNQeWRYRWxOdEVFeHdDWmh2ZDJpOFMwSVJTRldER2U4VExK?oc=5",
-      "source_name": "Yahoo",
-      "published": "2026-10-10T12:23:49+00:00",
+      "id": "cafbaa8b6fa8913e",
+      "title": "Trump Administration Brings The Hammer Down On Microsoft After Vance Said The Company Laid Off \"6,000 American Workers\" While Getting 6,300 H-1B Visas For Foreign Workers",
+      "summary": "Trump Administration Brings The Hammer Down On Microsoft After Vance Said The Company Laid Off \"6,000 American Workers\" While Getting 6,300 H-1B Visas For Foreign Workers 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMFQ4anV0MTN4SV9rSUtTNUotM2ZOendycU5iS2czZ1VTb21tM25mbnp0WThrTEYwdmtQYVR1R1lJbEFuQ25jMy1WT3Z5bFM1WmVGRXc4eFN1Vzh2aVpKMTRhQ1hraUNXbmR5UGQ1OXhubHBmZXptUUtDeW9WcG5KN3Nrd3cyUVNiRnBqeGVGczRoTmVWR2FaanB2d2diYmhfcVBTaEtOMUxGdE1xaHI0U3JwSUFQSWgwT0NiTW82a0VuOUgyVnNGMk5VTjJfQjdnMl93NGxWMUhyQjNBNm1MYnpZN2I3bDh1QVRDZ1VFd1hhSFdpM2pPdzlEcG5QSjF6OW5iNV9GcXRQZ2tzSzBsSUdqNDlSLU1uQXd4NlVVcTE3djNPV0JrUURuaDFMRWNYN0w5LQ?oc=5",
+      "source_name": "24/7 Wall St.",
+      "published": "2026-10-10T12:23:00+00:00",
       "categories": [
         "H-1B"
       ]
@@ -798,19 +810,6 @@
       "published": "2026-10-10T09:37:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "239b0805fbeed0e9",
-      "title": "‘Never raised H-1B green card issue with US’: Piyush Goyal says fewer work visas ‘good’ for India | India News",
-      "summary": "‘Never raised H-1B green card issue with US’: Piyush Goyal says fewer work visas ‘good’ for India | India News Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRHF3VUJSdlhHTmxfa3V3MFR4VjcwdXNJd01PQTFQaGFCVUNRaUFEbWQ2TUI4NUtEbVpzNVhzTG4wdzhVX29Uc1dOcE9NV212ZU11RGFYS2VWMlJlR3kzQjFnTGhVTWdKV0xEcDA3aGV1Q0JfSW1IVU1pTmE2bFpfRWlBOXRveHFQVFdpdU5aZmFHamViVWF3czVFOXdqRjNlMVJReXNURDRHUTFDR09HMFRhTXZmTXVZSkJqaWtfQmctdEhqdlR4LU0zS1NJbV9qeGN2am1lbEE3QnFveVlZcTVhNVlGczZSZ0FuNGhqZUVYSnVZWFhEZE1FR2F0N09X0gGGAkFVX3lxTE43OUJuS05PeXZYUGV5RUN1U1R3SFRTZ254MHJ5SXhJZktuR3p2U3pCblRKblFSU3VZZW5oSGgzMDBUVWt5azF4Umh4MVN6TE5UQWV2VEZHZVprQjlnR09ySjFDczJFNUl6eWc0djZISTRPaVJEbzE3clJaODNFU1dJcHN3U0I5U1hvZlVfNTJGa29PX3lZelktZmszTTVvOEU5MGZhbC1GX3Y2Mm5fTmxfUDdCSnBMdl9VTFotQ1NxWUpMT1pEYWVKdFNFeDJSTzg4LXAzeDlXS0w1dFFlV1FKV2FhdE1RRGY1YzNfRWFncTU4OWpZNmlWSEd3SFA0ODVsa2pMUHc?oc=5",
-      "source_name": "Hindustan Times",
-      "published": "2026-10-10T09:06:23+00:00",
-      "categories": [
-        "H-1B",
-        "Green Card",
-        "PERM"
       ]
     },
     {
@@ -950,17 +949,6 @@
       ]
     },
     {
-      "id": "14a3af4065d3434f",
-      "title": "US green card curbs send jitters through Bengaluru’s tech community",
-      "summary": "US green card curbs send jitters through Bengaluru’s tech community Indiatimes",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSUN0U0JXcHdqb0stNnFkTjVqV29vbTFXTHp6OEdWWVlrNHVyOGI2RW4xWkp1YTlyRW9md2IyMVh2cFRHNGRDVkxiUFMxRjZWd3ZFZkotc2preXVtYjJrVEVEU19HQkgxMGdzYmR4UHExaWdZZmpPUXJUenhSVWZaeGtUNFUwamg0Z29qQlhwOTAxUDlMY09JSWNSWjQwX1ZrcUR2N1c5VGo5UVVteFItTEc3b1dnZFN5VWlQejlvcmZQb0lPZkZLUHZPZXR5ZnNEZXpDS1ZmSXBYQ3Y4aDk2cnln0gHnAUFVX3lxTE1qQVpTYkJHWUlkUC15bzJCeWRYQ0pFQWM0YUN5aWxRWEdqeVp1cG15MHZpZVNUVTgyR0lnTFdERGlycUUxaDZmVTJDVDhHMFJzcHhRT0hpWFNDTU5Vc3dEdHBrYjBlRnljRTRSNDZqNDROQklOYzR0QXpVRTFjeXliOXFXYXdvOW1rd3lyU0lTTEs5ck1ZRVllZXZ4UUZNWWloUm5td1IyR0hMc3FfTkl5WExvUmVwTnJiWHFNbTA2cXdWbU1RSGJrbTZNNVROMzVPUi1BSjZ0dWRyNWJ6Q2JQYUppTzVpQQ?oc=5",
-      "source_name": "Indiatimes",
-      "published": "2026-10-10T00:30:00+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
       "id": "9188c3a406313dda",
       "title": "Microsoft, Redmond ponder potential immigration crackdown",
       "summary": "Microsoft, Redmond ponder potential immigration crackdown KOMO",
@@ -991,18 +979,6 @@
       "published": "2026-10-09T22:29:31+00:00",
       "categories": [
         "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "fa051948f335ded7",
-      "title": "Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says",
-      "summary": "Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNElEZnFWTzM3cnhFRnVCMGQ5dHE2MFFEalZVV2hpSTJNYkhsSHlkZWI4SUpwUk9oUmVQMjFTa2IxTmdLQzMxUjR4VEFJYUNEQm5FQXBsRXdZSkpudXk5aFAtWnhrUUFaUnlWeFBTdG0wbVZuQkFzSUxqV0p4aGRtSlJNOW5NamhMczZTQlNRZ3lkXzNURmVsX080OVVRWnB4Nlc0OGhHQVpQLWdibGVOR2V1VnZhalNvcHZDLVJKY2locTVXU241UWdGUXRuRUhEMS0ydEpoQzFOZzTSAeABQVVfeXFMTnFkUy1mbW1faWFOSlJNNjIxeV9aMk03NzJLQkhncW5mT3lna0VMTHBYVWQ5azNiTElMVEtyY0MwQTRZVkpkZ19RR3VoVk1TQVVhVS15bUZZZ2ktcmZQV1ZkeHI2Vk15VGVQOUtDVVNSZGQ4TE5ZVXpRX2dJVGdoQm1Oa3lzTkZRM3NPZWZsVGdudm5VX09fQ2VwOWltanVDTUFtNnEzdlY5bmZxbGpFMkR3dFRhY2FEb1VNUmoyV285WEc0dWVCWEJNdlR1ajBRbU9DU2RMS3FRXzNpbmpNWTA?oc=5",
-      "source_name": "The Korea Times",
-      "published": "2026-10-09T22:13:00+00:00",
-      "categories": [
-        "H-1B",
-        "Green Card"
       ]
     },
     {
@@ -1164,18 +1140,6 @@
       ]
     },
     {
-      "id": "ac625978d720ac38",
-      "title": "Microsoft, TCS, others suspended from PERM for alleged H-1B ‘fraud’",
-      "summary": "Microsoft, TCS, others suspended from PERM for alleged H-1B ‘fraud’ Staffing Industry Analysts",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2drd1FlbnRYanJuX0haeTBBcV83WHRZRElnSHpRR3hZV2wwSEtsRGdVbGd0VWYtVGZGWXo2MDU0UHFrQlEtbkxQdlQ0dkUtT2drTGduY0t4YnBPQzdHb1IzN2dUTF9jN3RIQjVSYU1NS0xWLUZtVklzQTJld3Q3NzREdWZUREN4bTJzNUdNWTRPMGZrLTRqdG1Qbi1fQ2xTdEFKdGl0UVN1c2hoWTc0WndUZi1XajY4UVE?oc=5",
-      "source_name": "Staffing Industry Analysts",
-      "published": "2026-10-09T16:29:29+00:00",
-      "categories": [
-        "H-1B",
-        "PERM"
-      ]
-    },
-    {
       "id": "0155eba678b09b3e",
       "title": "Green Card Update: Map Shows Nations Most Exposed to Trump Admin Visa Block",
       "summary": "Green Card Update: Map Shows Nations Most Exposed to Trump Admin Visa Block Newsweek",
@@ -1332,17 +1296,6 @@
       ]
     },
     {
-      "id": "586b9fbd7f5eb1c1",
-      "title": "Microsoft and Adobe hit with green-card suspensions as Vance accuses tech firms of sidelining American workers",
-      "summary": "Microsoft and Adobe hit with green-card suspensions as Vance accuses tech firms of sidelining American workers TechSpot",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ3JQaXBCSmxod0ZSSDNYeTJtbWlQc1ZqbktMS21aMXVBNElDQmw1TnJDTEJpQkxfVUFidVdhQ2E4b2QzU085MG1lcFdvQjNGbGRNSVAyOEFZY0FaS21ZekZSX3RNVjJFNXRNbkd1dnk5aW91YzUwNzBja0ZQY1NuRl9BeHowOEMyQzRRY2szdnpqNFhwTFJBN3NqZ1JRTDg?oc=5",
-      "source_name": "TechSpot",
-      "published": "2026-10-09T13:38:00+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
       "id": "dc36f908e9a65aa4",
       "title": "Trump administration suspends Microsoft’s use of green card program",
       "summary": "Trump administration suspends Microsoft’s use of green card program KIRO 7 News Seattle",
@@ -1465,8 +1418,7 @@
       "source_name": "Al Jazeera",
       "published": "2026-10-09T11:15:17+00:00",
       "categories": [
-        "Green Card",
-        "H-1B"
+        "Green Card"
       ]
     },
     {
@@ -1619,6 +1571,18 @@
       ]
     },
     {
+      "id": "23e1547516258dd6",
+      "title": "India hits back at JD Vance over 'deeply offensive' remarks; says US PERM move won't affect existing H-1B...",
+      "summary": "India hits back at JD Vance over 'deeply offensive' remarks; says US PERM move won't affect existing H-1B... Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdjF6TExKdkRFMjlGVWVaamZOMnlEcGhjbFRvOTFIZEVGUXB1TWxDMUpQSGVTd2lXU0JSMHdiaXVudnkwSXpxQ0hZakhJemFHcnExcXFnZlBMTVlsbkFORHFjY2RKNEdCMDUxa2dhNHlGMUs5MHlQYThaa2Jmdjhrdk1hZllBaEVLTm5wbWZUaXdXZ3dnV2JqSWNKNDZxN1JWOUNFYzA1c0NQbHZZdHRVS1hHdU4xY3hqWkYwQUlwemdDZjZMRUJTMzJ3a3RfSjExOTFIWlN2VlNYNERlUHRrUVRkYzhLY3pfUll5a2Z0dGZkZnd60gH6AUFVX3lxTFBNa0RkTEtzeEJKVXlVOTVPeDVESDNPLXVTRk1qU3JETDRFbkE2Qm5lcXpxTnJVampyekJ5S0hDUnFfWlFLZjdibzJBNUZkZXNqUEttOXhkLWtWNUNtTnAyNUtEYmJFZzd4RWRJOFhoU1FFeUNnaDByOHBDRHhUWHh2dENyeGQwT0lLMWVyQjFpN050OGxvdURyUzVwVkNuVi1aaC16UEVLNFdfd3E5TWVYYkFsMzRydnllNWpiQWlVdmlKTnNnU3AyWWVBYm82bTRDT2dnSzBNUUdjRE5fekt6Q0p0UGNZelpva203SmlXLUEwRUdnS3dkeHc?oc=5",
+      "source_name": "Moneycontrol.com",
+      "published": "2026-10-09T07:29:27+00:00",
+      "categories": [
+        "H-1B",
+        "PERM"
+      ]
+    },
+    {
       "id": "ab0a4410a06f9919",
       "title": "MEA slams 'indentured servants' comment on H-1B visa holders: What Indian IT workers can do after US stops ...",
       "summary": "MEA slams 'indentured servants' comment on H-1B visa holders: What Indian IT workers can do after US stops ... Bhaskar English",
@@ -1648,17 +1612,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUmE3QTRxeWxmTjRSdmdSR3RmUkRGczZnaUJQaVprT1ltOEkxYzNkZjBxX3FIWUdUejhndnI4QlViX0R1RmhNUlJIX2prcXVJbUNMX0Rqd2UySHRjZHg5X0c1eERKVWpKN0JSa3Z3MkJjUWJ6SXZMQ3I2eUhjX1Z0QVVCQVVJWFVSWFJzdXZOTkpqSmdpLTdxdkUtYXJJbFB3OWpDc2VXX193bU00WjFNSVJCYVZIb0p4dzY4THRrVkt4emJydU5KbEJFYTdwNlVoZDFpVXRqdVFiZmh1bUpocEt6dw?oc=5",
       "source_name": "Columbia Daily Spectator",
       "published": "2026-10-09T04:59:32+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "5f53ad74064d9b12",
-      "title": "Trump admin launches probes into nine universities over alleged visa fraud",
-      "summary": "Trump admin launches probes into nine universities over alleged visa fraud The College Fix",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVNHTHR4WnZqWVlwQzltMmlTemk4TFdEclBITExPSXpNYUItNHlkQ2EyblR3cV9ZaWE2MkdmbTVWZEE0NGFiTUhicXhlcHNkTW14WW9VQXF3NFlSR0lHY2d4bEJORzNmOGs5RGpBbkQwOGtuLWJ1OFB2MWx2Z2t1dklWRlM3dlVHQ1V5TXVpMGdGMk9YYnJPV2JjbmIxdUNLdmVTLTl4d08?oc=5",
-      "source_name": "The College Fix",
-      "published": "2026-10-09T04:07:44+00:00",
       "categories": [
         "F-1 / OPT / CPT"
       ]
@@ -1694,18 +1647,6 @@
       "published": "2026-10-09T03:18:00+00:00",
       "categories": [
         "Green Card"
-      ]
-    },
-    {
-      "id": "0b3dd498d6d17b6d",
-      "title": "The advice immigration attorneys have for Microsoft workers worried about their green cards",
-      "summary": "The advice immigration attorneys have for Microsoft workers worried about their green cards Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcW1yWDZpNjlPNkx3QmVmODh6azl2WWU3ZXpDSGVkb0ktVUtvOXAtQTNlWUJLbko5bFJleFEzLTdtNk12eEZSeThPTDBBY3JYZGR6TUJfa080ajlEdjh4TXo3MzlvWEFmb1VEYzZGNV9RSFJIQWtla3pKWWhnNEpLV3o4X09RSWNZYi1qbllxbjlpOTRsZW9kdkozemxyWEkw?oc=5",
-      "source_name": "Business Insider",
-      "published": "2026-10-09T02:34:00+00:00",
-      "categories": [
-        "Green Card",
-        "H-1B"
       ]
     },
     {
@@ -1881,6 +1822,17 @@
       ]
     },
     {
+      "id": "a25099b23df2c3f5",
+      "title": "US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud",
+      "summary": "US freezes Microsoft, Adobe, Infosys green-card applications over alleged fraud New Hampshire Union Leader",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMU41QnZYa0tJUGdMSmdocEw1X3UyYmZxRjhXMG9rMUNNbnVBUmFZbXNobFlUMmFfQmtKYmhhaWdpWGFxcnlrWnVLdWpCQmlKdDVNYVhmZF9RYnVWTVN0UWhyb0dsYkg0cDhmbzY0eGdvT01wWlRWRl9GekJXY2k3MWExZV81RDRGY1M3REd1Mnk5ZnJMUUd5S0xmeHRybm1mWFo5aHBDMGlDeTAyMGxqd1JMYjdTWEZZTVZoT0pEUlFUYlVLd2lscHVJY1VYLU9fdDNDZXNBTUk?oc=5",
+      "source_name": "New Hampshire Union Leader",
+      "published": "2026-10-08T20:20:28+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
       "id": "e43850deed277a30",
       "title": "US suspends Microsoft, Adobe from filing for green cards",
       "summary": "US suspends Microsoft, Adobe from filing for green cards DW.com",
@@ -1898,28 +1850,6 @@
       "summary": "Microsoft barred from H-1B visa program WOWT",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hRlNMN2FyNUJiMGZwU2hSamEzQnFoc0ZWX3pocVhUZldyalZTNlVoRjh3Y3hyTE5LRTlkRkZjUkVFUmxCMnFuQ0Z4dVA5SEFHVjhLTU13VExRaDBuU3duVDlHSDRGQ2oyVzRjLUJ3bGpZVnZlY2l2eDE1TXkzZw?oc=5",
       "source_name": "WOWT",
-      "published": "2026-10-08T19:55:00+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
-      "id": "50305869e90855ab",
-      "title": "Microsoft barred from H-1B visa program",
-      "summary": "Microsoft barred from H-1B visa program WBAY",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91UXh3Q1lzNmlWaUtKQlRGdWkzVVhuWW1XcUN2MThDN253bGl1ajhCb2k3aGV4dk5VbFMzbDcxbmFWdHNWb3FOU0lBOWxKemd4cGVweXFDWGc0aG5Oa2lmMFVkcHE5clBTS3c2M25yRzdZcGtSS2xTaDc5eHQ3dw?oc=5",
-      "source_name": "WBAY",
-      "published": "2026-10-08T19:55:00+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
-      "id": "11c4fa28827a74c5",
-      "title": "Microsoft barred from H-1B visa program",
-      "summary": "Microsoft barred from H-1B visa program WABI",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tSk51UnlremNBbi1hUE9QR24tdXFYcklxNzdNOE93UDFndzJBYWJqZV9oN09tU20wWmtGcE11Zi1fZDg0S1NfOU1GMWVmM3JIVGlwUWVkUUJmUjNfNzRPQ2FKTFB2SmVkZUZsOS1wUXdkNWVkaW1BbDlGaDY?oc=5",
-      "source_name": "WABI",
       "published": "2026-10-08T19:55:00+00:00",
       "categories": [
         "H-1B"
@@ -2289,29 +2219,6 @@
       ]
     },
     {
-      "id": "471f935c47662d32",
-      "title": "US freezes green card applications from Microsoft, major IT firms over alleged fraud",
-      "summary": "US freezes green card applications from Microsoft, major IT firms over alleged fraud The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnhuSUI3OURKTXBuQ21Hb2RRbkg5RkZDTHFDYTVVdnp2eXdHcGN0eUpzU2JlV0VWQ0dMSHJMdU9CVDFDSWktNXVvVF9ZY2R6eVpsNVFPZWlRcW5IVXdXOVE0LXFhenFMR3I2Sm9ZT0lfcmZ4Q1NiRWFjc1ZSQ09lTzBtWEw5eXcyaDZUNk1KV0NEUHo3UGtFc3d6OVAxWjR0X0p6ZndqRlRnSTQyNGo4Q3R2Q2N0Y3JNX2JjcG8xeU1rcFRxVEHSAcsBQVVfeXFMTXlzdUV3cmZDYVdzMm1SbE9kTEFJdlhCUmJXdm5QRkJqYVNKQk9TM0ZXUDZLUFVYcVd3akJWWTlZczQwQ1BkUm5Xd3JnTGJ2aFJSVmFCYnRjbWlUYnBOOGVVLVdQTzljNThKY3ZieEI0MTA2SWpDdTl6a3p1Z2Y2bG9sSV9vMTJwR04yOG9DSFQweVRoc2pXY1B0Z3Zybjc4S2ZVU2Y4YllNOGpiYnRqdm5GOW9vdUVEYVZJbHFVeUxzeUZZYzR2VmVLRDQ?oc=5",
-      "source_name": "The Korea Times",
-      "published": "2026-10-08T15:40:00+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
-      "id": "b1ab9c63f2014f6b",
-      "title": "Microsoft Is Suspended From Green Card Program. Vance Accuses Company Of H-1B Abuse.",
-      "summary": "Microsoft Is Suspended From Green Card Program. Vance Accuses Company Of H-1B Abuse. Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSlhaMFlyamEzVHByRXZmSDBQTHB0V3VSSHluVVo0S0tYeVlKamRldDNpMmc2Rm41ZEFJQjlvTV91UFB0Tm52T29ISnBiazQ2WFluelo4MXp2WTdXZ3RJY1RCZTB0a1BsU2w3cGc0U082OGozYzlBTUV2eUQ1NHhOX2F6QWNHanM4cUNFdzkwdVU3ZUgwSWZzZTRmS0RrMGczWGt5OWJ3?oc=5",
-      "source_name": "Yahoo Finance",
-      "published": "2026-10-08T15:39:52+00:00",
-      "categories": [
-        "H-1B",
-        "Green Card"
-      ]
-    },
-    {
       "id": "8a03c2d7644c2fb7",
       "title": "US suspends Infosys, TCS, Wipro, HCL and Cognizant from green card programme amid Visa fraud claims",
       "summary": "US suspends Infosys, TCS, Wipro, HCL and Cognizant from green card programme amid Visa fraud claims Firstpost",
@@ -2344,19 +2251,6 @@
       "published": "2026-10-08T14:53:56+00:00",
       "categories": [
         "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "597b8baafb2b5e18",
-      "title": "Green Card Update: Trump Admin Blocks Tech Companies From H-1B PERM Program",
-      "summary": "Green Card Update: Trump Admin Blocks Tech Companies From H-1B PERM Program Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUZxUkUtaVNDdnIwenZKandKOE9LOWEtVEprdERHMEFCMU5DZzNIbkVSNnZGbHZFaHNCM2dPSm5fSTRjaktQTW16bERXMkdZaE1qdjdiaEkyZlh0V1VZV3RmQ0ZJcEk4VUx1NzBkZVVhSkdTWEtMOWdldVBKNTkzOEtWRHB4dHVtUy1MOE5ldU9qMWgzZlBHd3UxUkVDakhud2VYeGQ1WnMwcHZZRmNXbjg4Y2NySHJldVE?oc=5",
-      "source_name": "Newsweek",
-      "published": "2026-10-08T14:45:00+00:00",
-      "categories": [
-        "H-1B",
-        "PERM",
-        "Green Card"
       ]
     },
     {
@@ -2436,6 +2330,17 @@
       "categories": [
         "Green Card",
         "PERM"
+      ]
+    },
+    {
+      "id": "38e3ff2c87f2177b",
+      "title": "US colleges could face a $70,000 fee for international students to work after graduation",
+      "summary": "US colleges could face a $70,000 fee for international students to work after graduation Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHlBVk10UllJYkx3YXdRNmhuOTBLRzg2WW1MenNtUENHWWIyRE9wRlFuM19jTExTWVpLbGNxOEpfNFFzUmEzRjQxYVJSOFFuV1hQMjFYN3kwS2wtSGtpWmlCcDRIY3oyQkl1REZDZkFScDJoNEhfZkFxWlFTRGhmQmhkNkJrRG5lbThtc2ZMOHZqQjRHQzlBZmpLWjBVTTktYkJGV1E4Rk43Y21DSDh0WHBSWjZGdVZPalZiRHB3TkpVdjRTVVVmUQ?oc=5",
+      "source_name": "Business Insider Africa",
+      "published": "2026-10-08T05:35:02+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
       ]
     },
     {
@@ -2582,23 +2487,23 @@
       ]
     },
     {
-      "id": "00e5652421c192ee",
-      "title": "Lawsuit Challenges New Green Card Policies",
-      "summary": "Lawsuit Challenges New Green Card Policies American Immigration Council",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkh0aHVfZk9GS0VGMTFGWnVwUDIzbHVPYUJzeTFCYWw2NXRyYzJycFhxSkZONnJyTS02RTd6d2RmVTNDcEdHd0dmQUxzemNrVUdSWVFRWXl6bnNfbGpCaEVBTnBvb3h4NTF0anRnOWdiRjU4QUZ3Wm53TmM1WVdKMjRIcHBUYkhyMFZVNERERnB0V2dPbjNBMUNqNGFrMldFNzdEMTU4MS1NZnFYSUVjTUJURkotLWR1NGFRag?oc=5",
-      "source_name": "American Immigration Council",
-      "published": "2026-10-06T03:09:58+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
       "id": "247ce75785633081",
       "title": "New Lawsuit Challenges Trump-Vance Administration Policies Threatening Green Card Applicants with Family Separation",
       "summary": "USCIS Policies Upend Decades of Practice, Penalizing Eligible Immigrants for Seeking Permanent Residence from Within the United States Boston — Immigrant families, workers, educators, unions, and immigrant rights organizations filed a lawsuit today, challenging two Trump-Vance administration policies that make it...",
       "url": "https://www.americanimmigrationcouncil.org/press-release/lawsuit-challenges-uscis-green-card-policies-separate-families/",
       "source_name": "Immigration Impact (American Immigration Council)",
       "published": "2026-10-05T18:59:21+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "00e5652421c192ee",
+      "title": "Lawsuit Challenges New Green Card Policies",
+      "summary": "Lawsuit Challenges New Green Card Policies American Immigration Council",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkh0aHVfZk9GS0VGMTFGWnVwUDIzbHVPYUJzeTFCYWw2NXRyYzJycFhxSkZONnJyTS02RTd6d2RmVTNDcEdHd0dmQUxzemNrVUdSWVFRWXl6bnNfbGpCaEVBTnBvb3h4NTF0anRnOWdiRjU4QUZ3Wm53TmM1WVdKMjRIcHBUYkhyMFZVNERERnB0V2dPbjNBMUNqNGFrMldFNzdEMTU4MS1NZnFYSUVjTUJURkotLWR1NGFRag?oc=5",
+      "source_name": "American Immigration Council",
+      "published": "2026-10-05T07:00:00+00:00",
       "categories": [
         "Green Card"
       ]
@@ -2681,6 +2586,17 @@
       ]
     },
     {
+      "id": "6f15123d449033c5",
+      "title": "Four Green Card Changes Coming Before 2027",
+      "summary": "Four Green Card Changes Coming Before 2027 Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWk9hb2szRlc2ZUJhS2NqLUthb29hbkRPcWtMLXAxQ3BhUW1vUzJvM0c5VEE3bUJiOUlaV0kwSzgxeEgzdUdQQkFfMTVvdnNFTkFPb0thNWVOYkZoSG5hVEhvSzA3YnktY0dxYWNtQ2JQd2dmTWpyeFk4T2RxZHNJN0hLY1J1UXFyQmxsU1hqMUhTdEdudTFDQlYzcEc?oc=5",
+      "source_name": "Newsweek",
+      "published": "2026-10-01T07:00:00+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
       "id": "8f55881d8aa9188c",
       "title": "Student visa cap creates uncertainty",
       "summary": "Student visa cap creates uncertainty The University Star",
@@ -2747,17 +2663,6 @@
       ]
     },
     {
-      "id": "e3067980847e9df1",
-      "title": "Temporary Protected Status (TPS): An Overview",
-      "summary": "Temporary Protected Status (TPS): An Overview American Immigration Council",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzN1emNvUFJWQmJoN1R4T2dzXzJlYXNyVkpNQ0V5UGVJNVd2cG9vemtVeWhtM0ZHS09rbXRvY2x6aC01emVjZGxtaUJ3WjBDZTZtdVJSOEJZY3VseGx3THZpSGJXOUw5S1FsNmtBTXZQSkRUblBQU2pmYmJxQUtGM3c1VmpSUUx2RUlGUVdXLUgyd0xPZW5pZmt3?oc=5",
-      "source_name": "American Immigration Council",
-      "published": "2026-09-30T07:00:00+00:00",
-      "categories": [
-        "Green Card"
-      ]
-    },
-    {
       "id": "dbeb3d07dd700078",
       "title": "How the New “Public Charge” Rule May Affect Prospective Green Card Holders",
       "summary": "How the New “Public Charge” Rule May Affect Prospective Green Card Holders The National Law Review",
@@ -2807,6 +2712,17 @@
       "summary": "Your Filing Window Is Opening: What Documents to Gather for Your Employment-Based Green Card Reddy Neumann Brown PC",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzZDazdqM0c5Q2I3b2JlMHg3cmdTd2lwMFZTOUxqMzdrclBWQ1R4TklITEgxMFczd0xnYUdqenZ5RENsLUExMHFLbVpBVzZEM1Q0dzByMFRES1F5SjM2UVI3R2V6RHRWVG45NEcxc0lvZFZpT0x3NEk5eHlVY29GMmdMWk9sdXRzRUstZzljZjMtV2Z0WWxSaHJDNER0WHNKNk5fV1hFeldBNFZsZVpCOUU1ejBHeEJxUVNV?oc=5",
       "source_name": "Reddy Neumann Brown PC",
+      "published": "2026-09-29T07:00:00+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "e3067980847e9df1",
+      "title": "Temporary Protected Status (TPS): An Overview",
+      "summary": "Temporary Protected Status (TPS): An Overview American Immigration Council",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUzN1emNvUFJWQmJoN1R4T2dzXzJlYXNyVkpNQ0V5UGVJNVd2cG9vemtVeWhtM0ZHS09rbXRvY2x6aC01emVjZGxtaUJ3WjBDZTZtdVJSOEJZY3VseGx3THZpSGJXOUw5S1FsNmtBTXZQSkRUblBQU2pmYmJxQUtGM3c1VmpSUUx2RUlGUVdXLUgyd0xPZW5pZmt3?oc=5",
+      "source_name": "American Immigration Council",
       "published": "2026-09-29T07:00:00+00:00",
       "categories": [
         "Green Card"
@@ -2884,6 +2800,17 @@
       "summary": "‘We have handcuffs ready’: Trump admin warns of major H-1B changes as visa fraud crackdown widens The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcVljWG1YdWNFc2I1M3YzQU1WeG1kSjNkSEFETFBXWFJybXJBejRlQk9zMXJCR3RhZ3doWXZBakxBUE5hTFVFXzg2QmxNbWJJR3o3ZFYxZTVQTG0tVXpYemdFM0lKa1NRVG1RRktaODZuMERyblVheHRiWkEzZmFMQVF1RWlaOGRkUjZVc25zVTY0b2Q0czVOTk1yWHNBb3RIa0p5T2lmM1BxMWhjSDE5ZHlxaHRLWGRzOUFmZzZEWjBWMy1nLWZKakIxMjFhcjJvbUpDczAzLU52MVBWOUlWSkstZm1LQWJIUDc5OXRnaU9BNDhIX3JzYtIB_gFBVV95cUxOdzdkUnZBS0hLUXR2ZXRTY3BRYjBKVzJGbzl1Y2J2Mk5uMTliQkJxMVlJTks0eDZpZmliTVlYcFFaX0FYNkxIQWdrZjlNVWhkYzhrZmw3eUhzNi1hdTJvZXQ4TWJmLWZlVFpsN0I2YzIzWkZkcTVyeVpMZUNxbXoxTkhDOWp1R3RzOG05VmFNQ0VRa0l1OXdhams2U2dzSG9pdWlyZXlVa3ZvM1dxcW1Bak9kRExLblN5ODdRVVgwSGNGc21aMkxrcUJJakdibHFJRGlwYnNPbk5DSU1FU0JYMnVya29HOUd3eFRMUmdIN0FiZ3JoelhSb2poa3ZuZw?oc=5",
       "source_name": "The Times of India",
+      "published": "2026-09-27T07:00:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "73c04c9b5a6233ff",
+      "title": "'We Have Handcuffs Ready': US Signals Total Shutdown Of H-1B Visa Program Over Foreign-Labour Fraud",
+      "summary": "'We Have Handcuffs Ready': US Signals Total Shutdown Of H-1B Visa Program Over Foreign-Labour Fraud News18",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc0pUemJFLXQ4U21ZeUZLT0x4czdxMUtqMU9sOTJSd0JLczY5djZCZVFmSWp1V3U2Vm01OHE1MnBMU1Nya2ZPZS10MlNxUDBPT3l3N2Jxb1Myb2otbTRwQlZjZkpLQlNnSVhGbGtFVWJpT1h0Z2otSUh0eXRnU1FMbzJYYTJNcjhUZjVUN0NPZUdnRGRJR0x3RkRpZ19HRVlKWHhMdkg4VV9Lek9BWHAzemhSRjVqbFZNcTEyUEFqYWYxZXp2NGJ3S3ZxeWJjbEpwN0Z6QUw2YXVEYkFCTFHSAeMBQVVfeXFMTlpaaEdiRE1IMzRJaXB0dWpwTUxfVzlLOWk2MVM2LXN6N1lrRFNsU1B4dlpNVXpvXzI3UlFwTEVtbS03Q2taUXlfS0Q2bkdHMnhzeEtwOUwzQm9lODNzbFRqcjlGT3QtdXVCMjFVZVJnR3pia0s2MDZpeUVtcmhvSXc2TEhOVGlvZTBrcUxGTktBTkl3cUZURW1DV3lNcVFyYmliZmdnbDhFOHFlNzZ4Z2haZDBDZ01SQ2JfYXByMnJEWUNvM2V3ZE0yWnRQVGo5bC0zREsteGdVQUE3V1hUVVJDeDA?oc=5",
+      "source_name": "News18",
       "published": "2026-09-27T07:00:00+00:00",
       "categories": [
         "H-1B"
@@ -3297,17 +3224,6 @@
       ]
     },
     {
-      "id": "3bce271593f4cde2",
-      "title": "New Executive Order Directs Federal Agencies to Consider Layoff Activity and Labor Market Data in H-1B Adjudications",
-      "summary": "New Executive Order Directs Federal Agencies to Consider Layoff Activity and Labor Market Data in H-1B Adjudications Fragomen",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcTZLUFVtbk5WdVpwSU5xeEs2R3p1TjJuU2dHWDlyV253d1lfZU04NG1jWk9paGxxa2RrNHV6MG51dm1uUUZnSnhOV29PS1pGZTgtY05VTzhEdFE5SVh5ZE5HV3V2N2ZnS3J3RlMzUzE2U3NWZFFFOE5IQ21hQ0dPckR0Q0k2cjBWVVd5UlJnT0g5aHFBTnNMcnZPNnhleXFEOGRuZlp3Z0tCRWpObllyUnRDREFpMGI3UnZOOS1UVFlUSGp4X2xYMFVRZUpFRFJXUDlHVjl1ZC1saElaem9QMkxTNlpnTmVCaXNOUU12RFVjVWZOWElyNTA4SGM1Zw?oc=5",
-      "source_name": "Fragomen",
-      "published": "2026-09-18T07:00:00+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "64859e2b0e50dd36",
       "title": "Immigration Attorney Arrested in Alleged Fraud Scheme",
       "summary": "U.S. Citizenship and Immigration Services provided pivotal assistance to an investigation leading to the indictment and arrest of a Houston area immigration attorney.",
@@ -3440,9 +3356,9 @@
       ]
     },
     {
-      "id": "f70696ffad74180a",
-      "title": "Key Questions About International Student Visa Limits",
-      "summary": "Key Questions About International Student Visa Limits Inside Higher Ed",
+      "id": "0635a521f56201df",
+      "title": "5 Things to Know About New International Student Visa Limits",
+      "summary": "5 Things to Know About New International Student Visa Limits Inside Higher Ed",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHR3eUxjY1ZpY29tZ3FnRGJPcThCaGlRcUo4dHJCbDJCa3dQRW9hcHFjTXBGWnowZWV6REZ3ZUdsaUsxb2dFOWZVXzRRa1pJaHF3MlVwNmVCMGJXR3p0UnlMZVpyWkR6NU1lVERSbjVrejl3NGFwN3ZhWG5RWElSZFkxelhKMmM1cVM3ZWZSRnRLR25vMkZQTjg4S3VaVVdXM0tPSTdBZHpXSVdYWlFJdTRGMHN5NkpGUXNqUjhsMHBMLXRv?oc=5",
       "source_name": "Inside Higher Ed",
       "published": "2026-09-14T07:00:00+00:00",
@@ -3506,6 +3422,28 @@
       ]
     },
     {
+      "id": "044221680deda97e",
+      "title": "DHS Proposes Immigration Rule To End 60-Day H-1B Grace Period",
+      "summary": "DHS Proposes Immigration Rule To End 60-Day H-1B Grace Period Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGU1cXRiYmVJdjdENThOTjE0SW12WFF1ZTgxX0tEOE5pZXFDQUJaYW1kdXpmVjMtcy1Mc0pOeW45THNQZWpyVjFzdG16Nm5KVnR3ZmFpRkFpNW5qeTRkbG5OUUxvTHZHc2NkYVQtZEkxOUgtZXVpTHo5WEJyMmFkRzVSNFZLVnVGeEdVRk4xR2E2dHB6NTB2UnhqcnRVNzRJLVpMQVpPSVoxdXc1NldENWRYdUxIWXZU?oc=5",
+      "source_name": "Forbes",
+      "published": "2026-09-11T07:00:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "e829ae5065c653a6",
+      "title": "Trump Administration Proposes Cutting Grace Period for H-1B and Other Visas",
+      "summary": "Trump Administration Proposes Cutting Grace Period for H-1B and Other Visas Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc29lWWNpQm14N3lPQ3BHaXExWG5CM1lReTZtWHY4QkZJUDBpTXRqbGc3U3lwcTFOQ2FKOWhHRUl6MEE5YlhSUEdqdEo3NUNkM1UzQ1F3dDhGV3Fxd2lEME9JRHU2TktrakZBREpQQ2Y0N085d29QdFNrRWk3TkppWE9SVjIxbEtOUjlUeldaUXFic1RNRU1pMmtB?oc=5",
+      "source_name": "Time Magazine",
+      "published": "2026-09-11T07:00:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
       "id": "1b723905e4917d59",
       "title": "USCIS Backlog Grows Even as Agency Gets Fewer Filings",
       "summary": "USCIS Backlog Grows Even as Agency Gets Fewer Filings American Immigration Council",
@@ -3525,6 +3463,17 @@
       "published": "2026-09-10T17:28:05+00:00",
       "categories": [
         "F-1 / OPT / CPT"
+      ]
+    },
+    {
+      "id": "9e481b8f9a593dfe",
+      "title": "Trump administration proposes axing grace period for H-1B visa holders after job loss",
+      "summary": "Trump administration proposes axing grace period for H-1B visa holders after job loss Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdFExZGJsaERnTExDODNaTmptMEF4VkRlMXRjOUItcHkzOFhULXBxZ1pJOS01YWZyQXI4aHJDb0I5NG9PRkVEUXJlUkswZXJRakJSb1BRRlc2aEF5aWliaEpFNGN2akwzakR4R19yUWkxeDYyT2tkc09rVTJvZTBSSHYtcTk5bHYyYlExUFhSYXVIYnBGNUM0eTBpc1NBY05sZ1ZXVXJOVzZyTTJaWVQ4dzJENVZwdVpxcGpYNDRfTE9HeXFkQzRQSFdocw?oc=5",
+      "source_name": "Reuters",
+      "published": "2026-09-10T07:00:00+00:00",
+      "categories": [
+        "H-1B"
       ]
     },
     {
@@ -3803,6 +3752,17 @@
       ]
     },
     {
+      "id": "9b4710eea9bdd904",
+      "title": "DHS Immigration Rule Proposes A $103,265 Tax On New H-1B Visa Holders",
+      "summary": "DHS Immigration Rule Proposes A $103,265 Tax On New H-1B Visa Holders Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlI1R0tyak1yaHFWMEE4VHpscy1GSXVqRjBUYl9xSW1hbDRrbGlOcXhEckNFNmZ1ZGU0WTQ0bldZLUdBdzI1SUtQNDVBSFNxOXBFOFNJZzBzN3piZUxGTC1qVEF6NVZmaXg2VnBvZHNOeEdNVnVjZnpwWkFUN1gwaG5kQTdtYUh6eXBKekdfRi0zTmNfSGY0MFdVTnZYNmlubWZqVURpaVhYTkZNS1hBS3Nrc0t0WmpwcWtjUTVpZXY?oc=5",
+      "source_name": "Forbes",
+      "published": "2026-08-25T07:00:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
       "id": "46f233511301504c",
       "title": "A seemingly technical change to international student visas could disrupt teaching and research at US universities",
       "summary": "A seemingly technical change to international student visas could disrupt teaching and research at US universities WLRN",
@@ -3954,6 +3914,17 @@
       "published": "2026-08-19T07:00:00+00:00",
       "categories": [
         "F-1 / OPT / CPT"
+      ]
+    },
+    {
+      "id": "ed859528f7d08387",
+      "title": "Revised Form I-485 Takes Effect Sept. 18",
+      "summary": "Revised Form I-485 Takes Effect Sept. 18 Immigration Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV25yRUtfNk9icVh5T0ZfdEttVzFFa2Z1aDdpRmcyS2xkMmk1bzV3NS1xQk1yTmxHdXN0cEd0MXpRUVdNTzA1VHZsTFNXblhSaXhGRUwzb1A3NnR5VGtzVVdVeGVFQ2hIZl9vUko5aEpwU0JhbVY0WWRrVHk2RjFjUHV3bEcyZ1pqRUVWdzhJUQ?oc=5",
+      "source_name": "Immigration Blog",
+      "published": "2026-08-19T07:00:00+00:00",
+      "categories": [
+        "Green Card"
       ]
     },
     {
