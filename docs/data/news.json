@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T13:06:57+00:00",
-  "item_count": 150,
+  "generated_at": "2026-11-07T21:53:43+00:00",
+  "item_count": 149,
   "items": [
     {
       "id": "796529bd7c665059",
@@ -53,6 +53,17 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbmdMR1ljUzBOMHRFOUVJVDlJUFBTN0VlSkFNazZ6ZUpWN0tGcWI5ak5BRFk4T25WLVJ0Qm50UVExa0xQQ0E1WXZvbkJpRnpvejAyb1BLTjdhQkI0d25fMnZOQmFoSmllR29tSlM3SEdYVER5RVdyazM2V1E4aUFXVjVmcllVaGwxZUdPTUl3QkNPX3VKd2hSb0JzQjgydHJOYTdEVHEyd2c5NWZSOGstV3hZc1JyNmVWV2s0TkFCNE05ZUnSAcoBQVVfeXFMTXd2UWFkTDhNZTRYWTNSQVNRQ3R2WXlfM1otT3NPbDF5UFZSNHhCaWR3ZTJnVDd1SEtMSmhwb0hreGtKLVVuTzBQTHg5cFN6blJLMnVNNWo0Q0lGajBndmJmSTViX0JvR1ZoWUl2VFpTNkpLR1p2NWN6c3FzTURWRVFTWU41M3pNZy0wMVlYM1VRRlg5dDNpalpuWHExWnNPbDhIOWpueW1OUm9taVFqQmFzOVpiYWRpSGdMX0s1RnB6Mk00VnBkb1hJdw?oc=5",
       "source_name": "The Financial Express",
       "published": "2026-11-06T23:53:08+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
+      "id": "603c70236a60563d",
+      "title": "The Immigration Paradox That Dare Not Speak Its Name",
+      "summary": "The Immigration Paradox That Dare Not Speak Its Name Center for Immigration Studies",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qM0RVNFBFVk9mQ1l6ejUxUS05cnJZckd3dEVURUhUZXBwemlxc1psNU41TFNpQmpBOEFTNzk0amphTjhTZmgxaVBmbEQ3emItcmlnV2JTeUpKcUJmWWh5UW5uVTA2b3lQVnNITVVTaUZQS3U1?oc=5",
+      "source_name": "Center for Immigration Studies",
+      "published": "2026-11-06T22:07:34+00:00",
       "categories": [
         "Green Card"
       ]
@@ -247,6 +258,17 @@
       ]
     },
     {
+      "id": "938e8a34bc58308f",
+      "title": "Times of India: Immigration After the Midterms: A New Congress, but Who Holds the Power?",
+      "summary": "Times of India: Immigration After the Midterms: A New Congress, but Who Holds the Power? Fragomen",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3MwN2tPcU9OdHFlYWlOWVNSY21QOVd5aHI1RjAwbldITVhXTjl0T2pvSmVqZDZpM1NlclZ1ekQ5WVR5WktRcHRRUjdwdXlYZDc2dXVGS29BZXV3Y3RZYWg3SGUxQVlqNUxON1hHRUIzYWNOY3BHalB6THQyWUYwVUlTVUNfbmJfVGxJd3AwVWRzWDdOazlROWUyTXlNYzNpU0FVckltcHRlc0JreldaM0VaMDZ4b3U3b0RHS09xV1c?oc=5",
+      "source_name": "Fragomen",
+      "published": "2026-11-05T16:27:48+00:00",
+      "categories": [
+        "Green Card"
+      ]
+    },
+    {
       "id": "6d19c1bbde56b586",
       "title": "Democratic Control of Congress Could Reshape H-1B Visa Policy and U.S.-India Trade Relations",
       "summary": "Democratic Control of Congress Could Reshape H-1B Visa Policy and U.S.-India Trade Relations INDIA New England News",
@@ -269,23 +291,12 @@
       ]
     },
     {
-      "id": "ed17f9b4dcaa6230",
-      "title": "US midterm elections: How Donald Trump's 2024 gains among Indian-Americans hit a Democratic wall",
-      "summary": "US midterm elections: How Donald Trump's 2024 gains among Indian-Americans hit a Democratic wall ET Now",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZzhKMjVQMG9jZEtmbXZ4YTVHQUdDY2pHN0NiQTRlZmdXcXcyY2NZdkp4SC0xN29tRk9IRU8tMDYyT2pxZ0FFYTY2UWhCcmpLeS1zQzFyUGhMZlN2MFc1Q3lzZm9qdWdxcDZ5WThNbDRwYTJjUE1VcjBkZ1JmMno1bzlFUGw4SzBNSHVtaC15a3Q5QmttQk1FaGI1VUQyTXZneVZ4dTd6Qk9kLXVIeXAxekpzdmk2UERwVTVtSFVXWTdHZTdqaUhpUUlZV2ItOTdZc2pjYWJSaVVVVVXSAeABQVVfeXFMTlZsMUFhNDg3ZnBHV1JGSUJaeFZGQzZ1SW9jTXQzVUtDNnNRek53dkFVU0VLaURNejB2VTlUVzFXa0RTSXpQQjBROVQyVmZrY0NPbjA5eHQwUm94QXlXVVVrSGg0dkFwU0huYUdlZVRrQUtrZHppXzlWbGloQV83X2MxZml1TC11cHh6U1g3OUl6emNhSWhqNW90dW1rdTVPcTl1ME5fM2hXWXp4enVVOGdOZ3BfcDJOVFh6Zm5tMnJENndqSWlTVm91MTM2T0RnUFhpeUZIWktRNTNqaWh2enA?oc=5",
-      "source_name": "ET Now",
-      "published": "2026-11-05T16:00:05+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
-      "id": "0d92b7edd5053cd3",
-      "title": "Kenyan Man Seeks KSh 3.2m to Fight Imminent US Deportation After Green Card Termination",
-      "summary": "Kenyan Man Seeks KSh 3.2m to Fight Imminent US Deportation After Green Card Termination Tuko News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkt3a1h0QUJFNlMyOTM0bnpOcG9TenFKYUNSMW5ScnJTbUhqNmtvN2E2TFAyMW8wbGV0VzdHTFEzTUdnNUZkTnZhYWNvSFVPZ21hYVUtc2NfSHlxTzJqeWxlMXhrb1paVEhmUlVBWEl3WW5iSHhaN0JER3ZKbzFvNS1JZm93eFJObjVGYUkzSzJEamR3Mmtaa0ZoQlF1bjVYZ3RqUHpqRktBYWVaekVkU2piQlk?oc=5",
-      "source_name": "Tuko News",
-      "published": "2026-11-05T13:56:40+00:00",
+      "id": "d79c491830a91f0a",
+      "title": "Democratic leader Jeffries launches bid to be first Black Speaker, vows to ‘eradicate Trump tariffs’",
+      "summary": "Democratic leader Jeffries launches bid to be first Black Speaker, vows to ‘eradicate Trump tariffs’ Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZm94c1VoNHkwdm52dlNqYndTV2ZOX1ZRdDhEbFBJdjJlRDYwd1BvR3pxbll1ZXd5ZUhsRGdIZUswd2JjSjRrb1AtSWRJaWVoV0pZNlZ3aDR1eHFZT0d5ODR4OFlkX3hoYm1wdzFPVXVEa3A0VHBrQWZlYS1ULTc5WU1TUDZPNl9wLU5ITWJkckItTlIxalBOWHN2WmVtNHBUbHNyTml3bVhYYjEwbWgtUC04QjQ5NWlUZ19taTBZQndQY0N6TXJGbU9DYWZENUV6U3fSAdIBQVVfeXFMT2ZveHNVaDR5MHZudnZTamJ3U1dmTl9WUXQ4RGxQSXYyZUQ2MHdQb0d6cW5ZdWV3eWVIbERnSGVLMHdiY0o0a29QLUlkSWllaFdKWTZWd2g0dXhxWU9HeTg0eDhZZF94aGJtcHcxT1V1RGtwNFRwa0FmZWEtVC03OVlNU1A2TzZfcC1OSE1iZHJCLU5SMWpQTlhzdlplbTRwVGxzck5pd21YWGIxMG1oLVAtOEI0OTVpVGdfbWkwWUJ3UGNDek1yRm1PQ2FmRDVFelN3?oc=5",
+      "source_name": "Social News XYZ",
+      "published": "2026-11-05T15:37:34+00:00",
       "categories": [
         "Green Card"
       ]
@@ -401,17 +412,6 @@
       ]
     },
     {
-      "id": "bd480757dceead37",
-      "title": "USC must provide more career support to international students",
-      "summary": "USC must provide more career support to international students Daily Trojan",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSngxZ1o2VU5WUVF2emFqLUJrQWd1bHpzV0NxeDdIcERMbUdBa1VSTDhXbHNPS2tWdjcySndOSUhMSFp1LXNGcWllQ09DN2NoLXl2cjZSWndTczY1ZU00X1M0MzJmMnN5MndIR3lvVHp2Q2hBUktDdUNuOTRhX3ozUEZ5SjFsZFpZWVVMVWJnOEwtRmg1TlNsWnU3S2tSX2M?oc=5",
-      "source_name": "Daily Trojan",
-      "published": "2026-11-05T08:04:53+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
-      ]
-    },
-    {
       "id": "6cdf44db4049b614",
       "title": "US midterm elections: What a Democratic Congress could mean for Indian H-1B visa holders",
       "summary": "US midterm elections: What a Democratic Congress could mean for Indian H-1B visa holders The Economic Times",
@@ -496,7 +496,8 @@
       "source_name": "Center for Immigration Studies",
       "published": "2026-11-04T22:20:54+00:00",
       "categories": [
-        "F-1 / OPT / CPT"
+        "F-1 / OPT / CPT",
+        "H-1B"
       ]
     },
     {
@@ -509,28 +510,6 @@
       "categories": [
         "H-1B",
         "Green Card"
-      ]
-    },
-    {
-      "id": "b1ac0fbac9ea0c5a",
-      "title": "WR Immigration Proposed $100,000 OPT Fee: What Students & Employers Need to Know",
-      "summary": "WR Immigration Proposed $100,000 OPT Fee: What Students & Employers Need to Know WR Immigration",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5X2Via1JGM2xpa0Z3UGZsXzdoZEVic1dNSnVoa0lOVXJuRm1rMHVscUxLRm52VWZlRUtGTmNPLTY0T3IwWUpCeWwzaWF2VXNBZGZJT2p6OGVsTDhWdUMtcnRpRjQ5QkxNRUtQeW5FV09JeHBJ?oc=5",
-      "source_name": "WR Immigration",
-      "published": "2026-11-04T20:39:17+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
-      ]
-    },
-    {
-      "id": "e3ffdea428dcf1d3",
-      "title": "Bengaluru-Chennai roots, H-1B fight: Suhas Subramanyam wins second term in US Congress",
-      "summary": "Bengaluru-Chennai roots, H-1B fight: Suhas Subramanyam wins second term in US Congress New India Abroad",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmVPY0lQeGNtOGRzbmxiUXpqaGdVTTB1MGRTMmhpbG5jZFl3TkxWNjhhX0N0YmlXT0RPS1FVS0N1d0lhZ1FFUnRKUlFBcVhrdU9tVUdpRDNyMUtaTXQ3b2pHbEFnMjBHLXl6VmJ4RWk0Vm9zd19UZXhLbTlSOG1IUWhKb1VQQWlaNkVNMW1SZlk?oc=5",
-      "source_name": "New India Abroad",
-      "published": "2026-11-04T19:07:57+00:00",
-      "categories": [
-        "H-1B"
       ]
     },
     {
@@ -579,12 +558,12 @@
       ]
     },
     {
-      "id": "67fe3850833dd59f",
+      "id": "6f2ad654d9374e17",
       "title": "M-1 Visa Flight Training in the USA",
       "summary": "M-1 Visa Flight Training in the USA MiGFlug",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUlKNGNSelFmc1M2cmRNU29GYnpmV2g3TFdVZDY4cGlZOFpsMFQ4NEFjbzA5cjVrRGZVMEcxU0N3SDF1UENNM3Z1bEVCNXFEYm03NHNBcGV6QWw4enZRRGg1dzViWlRIOUdPTUNLRU83cTZLd1JTNFhZZ0tGQ1dZNVEtWDBRbXAwc1F4SHFPUXBrM1BycmZQNw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0tjT0IzMUxwQ3RqRlIwMWdnVVhTcEFWYTh0Wl9aWWVDWXJBVkRONTNOR3Uzd05DMWFmYm0yQWhGTXBWS0JRRnFHZXU3VkZLNGRBc1lYcllLMHNHZHdJVkVKRU52bmx3Y0FianBlMnozd2ZybGV4OFBUYkRlVDVSaWNnR2NxSUJ2TS1pVUs4ZTRES0VMUVRYT1ZidXI?oc=5",
       "source_name": "MiGFlug",
-      "published": "2026-11-04T15:37:32+00:00",
+      "published": "2026-11-04T15:37:33+00:00",
       "categories": [
         "F-1 / OPT / CPT"
       ]
@@ -656,14 +635,15 @@
       ]
     },
     {
-      "id": "20e1186b6f13735f",
-      "title": "US midterms: Will Democratic control of Congress bring relief to Indian H-1B holders?",
-      "summary": "US midterms: Will Democratic control of Congress bring relief to Indian H-1B holders? The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzFMdHNabG5zSHBDTHBMMW9PWkFPMkhMaXZrOTk4S1FrYk53YjhFYTI2TTJDUnRmOF90MnhwMTVweFJXVXpoN0RTQmVmQklaMFJfTVFicGpEdkdpQjEtN1RISWdPelltdTBueUpGenhobGtPWGdJamxqeXY1enlMQnBDTklSVkxnTElPUEVWcU8yVnBVV2hnSTZ3S0pCNHdmdEpFUG9OMGZsQWlZWTU3N1FEcFlSY19HOC10NDNzOUJ0c3ZOU0daeGpiVdIB0gFBVV95cUxPYnMxZkF6Q25rS0IzZVRzcE5ELTRSVTVoT28tMy1GMDd4akhOeXpuanc4WEtsQldZU29NQ21GNUVZaWs3RlMyZXhjUUYteGJhNXo5MmVsMm50cU5lMWtLTXBLUWxSeGZKRENxVm5CY0paZmI2VERCdk5rQVBnVWVSbFI5TXM5WmU4SE9LWjZ0c0NWWVJ3WDh2eFBBODBCTk9PdVMwblJUYTNjLXM2Zl81ZkRDX3ZzWjBuOUwtX2I1dTNnN0ZYa0NSby04cjZwQjVpZ3c?oc=5",
+      "id": "96f1cec13f2baac8",
+      "title": "US midterm election results 2026: What they mean for H-1B Visa and Green Card aspirants",
+      "summary": "US midterm election results 2026: What they mean for H-1B Visa and Green Card aspirants The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzFMdHNabG5zSHBDTHBMMW9PWkFPMkhMaXZrOTk4S1FrYk53YjhFYTI2TTJDUnRmOF90MnhwMTVweFJXVXpoN0RTQmVmQklaMFJfTVFicGpEdkdpQjEtN1RISWdPelltdTBueUpGenhobGtPWGdJamxqeXY1enlMQnBDTklSVkxnTElPUEVWcU8yVnBVV2hnSTZ3S0pCNHdmdEpFUG9OMGZsQWlZWTU3N1FEcFlSY19HOC10NDNzOUJ0c3ZOU0daeGpiVQ?oc=5",
       "source_name": "The Indian Express",
       "published": "2026-11-04T12:10:11+00:00",
       "categories": [
-        "H-1B"
+        "H-1B",
+        "Green Card"
       ]
     },
     {
@@ -744,17 +724,6 @@
       ]
     },
     {
-      "id": "f5409cffbc35a652",
-      "title": "US Visa Curbs May Push IT Talent Back Home",
-      "summary": "US Visa Curbs May Push IT Talent Back Home Rediff",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXBoeEJjXzY4cnozSlU1V0N5VXVPM250RU1Ea0lIR0R3X2dPSEtwSlo1QVNzZ09LVmZPdGVjdFBTRGl0TU80R0RBV185SnlQejlvSklMZ1Z1V3YwTzAwWGpqamZkV0VKV09CSlpMTXpLcnpDeUwxbjRUSlA4cElfS3BFbXJnV2lDS0xkMXZ5Mnlzdlh50gGXAUFVX3lxTE9JMnAxVDVUQ2p1Qlh6WHg1bVhGWWc3NURnVEpjOGRWWnZocUZrX0gtWXRuRElfTnlwN3lqdUVzRENYaWE0Wm84dG12WGloVEh5Y0Z4bHc1YnU2TjNpMzEwZUc3NVpJbkhsZmVuUENDZzAwUVhncU4zQmdwdjdkMy1pZGtXZXlaUTNTRG1iX1BTR3RodlhjNDQ?oc=5",
-      "source_name": "Rediff",
-      "published": "2026-11-04T05:21:23+00:00",
-      "categories": [
-        "H-1B"
-      ]
-    },
-    {
       "id": "d72b43798a5013a3",
       "title": "US midterms: Democrats win Congress, what it means for India’s trade deal and H-1B visas",
       "summary": "US midterms: Democrats win Congress, what it means for India’s trade deal and H-1B visas Udayavani",
@@ -788,18 +757,6 @@
       ]
     },
     {
-      "id": "760e3e622e7a2c16",
-      "title": "US election results: What do Indian immigrants want amid green card delays, H-1B hurdles and political fati...",
-      "summary": "US election results: What do Indian immigrants want amid green card delays, H-1B hurdles and political fati... Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWk1Vdno1aXZqUnlPNHhwc2lNcHBuZkFtSlR6NUdxNUNNU1hLTk9CbVpxelRFUW1NUW1LdTdoU2JORDBWZE9fVkpfWlpseGtrUEVjelFwd2lDY3ZpTGtGSUt1WnhHckthUXYyZWRKRDRKWFBtN1hfMXVSV2VLZm5WNVpSdkJHbmFjbjI0eEN3TEhNSGJqYlkteTVWU0JtY0pSUzVDYlZnMl9wdjhWVTBqa0Q3ZjNXVXJEZHJwaTQ1WDF1LTd0UDlnVEtR0gHPAUFVX3lxTE01a1U4bFRIeEJ5Sm12N1A3XzhBa1ZYQlE1WFFRdFFuU29fZmQzN0kxNmlCRHYyMkZEbENjZlhUR0h2Q0l5RjVfeUNCT1BJbGw4b3JvbmtzWUx3X2loSmVHZU1FclJKRXhtZmM3LXo1RzFHYy1aQ1NYWTRENVBBS28zY3BfZElzX21zMFVfTU9fOGhCc2JEWDBvQy1lbFVtN1hkV0ZaaWZPU2FIMENPcnpWSF9MajBoa3RXdnV4bldkeUFUZFJqS0FOeUE1cWlKUQ?oc=5",
-      "source_name": "Firstpost",
-      "published": "2026-11-04T00:57:33+00:00",
-      "categories": [
-        "H-1B",
-        "Green Card"
-      ]
-    },
-    {
       "id": "202fa67045bd34d1",
       "title": "Video | US Midterms Elections | H-1B Visa Uncertainty Weighs On Indian American Voters",
       "summary": "Video | US Midterms Elections | H-1B Visa Uncertainty Weighs On Indian American Voters NDTV",
@@ -808,18 +765,6 @@
       "published": "2026-11-04T00:44:08+00:00",
       "categories": [
         "H-1B"
-      ]
-    },
-    {
-      "id": "262c043f6af6c55b",
-      "title": "Is Your Company Ready for Greater PERM Scrutiny? DOL Proposal Clears Initial Review",
-      "summary": "Is Your Company Ready for Greater PERM Scrutiny? DOL Proposal Clears Initial Review The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXMyNzhCa243d0s2Q1hpSktWa056dFQwUGZjM0t1UTA0T0V5cC1kR0gwaWZEUTU1aW11TnczbnhuSG9ERGpQekp1UVg5RHE3TEg0dTBxazQxOFRtV2ZDWFRsUFVQd1N0ZUZwRWw3djZ4OF80bi14LUpQbzExY0tYMnRYX1RoS0VUQmVqZ0FoWDRCODJKRXZaNldaSWdjYkt5UDhNS01CN2g1ZHdh0gGyAUFVX3lxTE85bkhkTWRLSUNxMnpLelQ5Xy15bXBqU3dfRnBEaTktMU1FaHRWVTJmelVWaTBtYlpGeExoNHdPOWJtYlpwbklsOW05ajdZRHl6bXVzSkYzTW9UU0NuQjVpUXlaTC1FX0NkYlR5LXZzQ2QzaHh1YldzTnZvNjhreHYtUVlZbzdNYjJNMWt6a195d2JuRjIwcFVwY1d1eGZFNWM2UHpCV09xeTVJYmZiMmw3SlE?oc=5",
-      "source_name": "The National Law Review",
-      "published": "2026-11-04T00:12:13+00:00",
-      "categories": [
-        "PERM",
-        "Green Card"
       ]
     },
     {
@@ -853,17 +798,6 @@
       "published": "2026-11-03T15:25:07+00:00",
       "categories": [
         "H-1B"
-      ]
-    },
-    {
-      "id": "d53f1c7b9d14ca11",
-      "title": "F-1 students could face a $70,000 fee to work in the US after graduation",
-      "summary": "F-1 students could face a $70,000 fee to work in the US after graduation El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3hMSHc5aW51ejQtbXhWM25oTVQxX1lVX09JZVFzS0EzY2xHR1dMaXlUQVcwNDF2VHBhLVBTMjRsVTVFWXZ1RlVtbGEtUnVkbm93VzVvOFBYS1RNR2RFZHF4TWhNWVV0U1lCaV80QWZCVlJDV004cFBVOE45T05hbVQ2YjRLTjFEU2Y3V3B0dGNsMjVpRUQ1Z2JDUXR5SWNjeVZkLW4yTUdGS1FHT0FsZQ?oc=5",
-      "source_name": "El Cronista",
-      "published": "2026-11-03T14:52:14+00:00",
-      "categories": [
-        "F-1 / OPT / CPT"
       ]
     },
     {
@@ -913,6 +847,17 @@
       ]
     },
     {
+      "id": "a9fdc51f9b387b5f",
+      "title": "US visa revocations cross 300,000; H-1B approvals hit 97%",
+      "summary": "US visa revocations cross 300,000; H-1B approvals hit 97% The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUExrYzZCS0J0OUhSTVpCV2NJckVqSWZjZlJXWTk2NW4yd1o0c25pVF8tbGg4VUtzejlaTi1YeUFXSk1tTjJ3YXBfYWNONF9GNV9hV3lPREdQbFVIb3JQZGZZTTZYMHhtYlpFT2prT2pmT0RPSzFGN21IMkhmOTBkdmtSaUVhWVJwdjJOWjZXLTNHQUlXVFhSQU9B?oc=5",
+      "source_name": "The American Bazaar",
+      "published": "2026-11-03T00:32:37+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
       "id": "925344ea393b0591",
       "title": "New Executive Order and PERM Suspensions Tie H-1B and Green Card Sponsorship to Layoff History: What Employers Should Know",
       "summary": "New Executive Order and PERM Suspensions Tie H-1B and Green Card Sponsorship to Layoff History: What Employers Should Know Foley & Lardner LLP",
@@ -926,6 +871,28 @@
       ]
     },
     {
+      "id": "cab1ab1030b97588",
+      "title": "Targeting H-1B Visa Holders Poses Significant Economic Risks to America",
+      "summary": "Targeting H-1B Visa Holders Poses Significant Economic Risks to America India Currents",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzNtczJ1UnpmSlVOX0ZjTGpZV2Q0ZjJTNUotbWl6Wk0wU0NYZE9WSjBqZzZENnhPNkRHcGxlaktpR24yeXJCUWpPSngzVS1hNUNhU21NcThWX1JSZFhTQXFsdnhQOGxyX3FqOXYyS1E4c25jcXNjZlVVRDU2MWpiUGhlTFJuVXpIemxudXZDdF9ObTFpNm0zbHl0NGk2Mm8?oc=5",
+      "source_name": "India Currents",
+      "published": "2026-11-02T16:00:00+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
+      "id": "f02308c1ff6b051a",
+      "title": "Proposed US Immigration Rule Could Disproportionately Affect Indian H-1B Workers",
+      "summary": "Proposed US Immigration Rule Could Disproportionately Affect Indian H-1B Workers INDIA New England News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXU2N2pjbS10SUZXWmZYSTEtaFEwWi15REFGX3RKOGpYTVpSXzNDc0Z3Z1NEMlJqZjl1cTlLUGQ2RlRSeUt2Nk9ZaF9BaWtXOUZnNk9sS0t3cUs3MWp4T2Z0WUVRWEo2dXk5djZqSFc5dFdfeW8yOUcxTmtDWWZKSGRrMkZRUzBtVGxGNHl2OG9VaTd3NHRuVmxqaHdValhtYWg2QlV4S1RvalNKclE?oc=5",
+      "source_name": "INDIA New England News",
+      "published": "2026-11-02T15:49:03+00:00",
+      "categories": [
+        "H-1B"
+      ]
+    },
+    {
       "id": "3c60d334b11fe4e4",
       "title": "H-1B Visas, Green Cards And Deportations: What US Midterms Mean For Indians",
       "summary": "H-1B Visas, Green Cards And Deportations: What US Midterms Mean For Indians News18",
@@ -935,6 +902,17 @@
       "categories": [
         "H-1B",
         "Green Card"
+      ]
+    },
+    {
+      "id": "14e3e9bf6cfe6431",
+      "title": "Texas Isn’t Waiting for Congress on H-1B.",
+      "summary": "Texas Isn’t Waiting for Congress on H-1B. NumbersUSA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBma2tSZDVCUl9RVXdMWHdLblFoY29pWVpHMVFBU09hM3Zwb0luQTk0ZjVrZ3ZIdGhYWmtzUHdvYkU3UzRsSHMxcHhUTXlRNjRKUXJDMlVxanlDSlhId1E?oc=5",
+      "source_name": "NumbersUSA",
+      "published": "2026-11-02T15:19:09+00:00",
+      "categories": [
+        "H-1B"
       ]
     },
     {
@@ -971,14 +949,26 @@
       ]
     },
     {
-      "id": "481b3a4ec8432ec4",
-      "title": "3 Indian IT Stocks Better Placed for Tighter H 1B Rules",
-      "summary": "3 Indian IT Stocks Better Placed for Tighter H 1B Rules Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnFWNDh5ZjJuLThCYzdGYTRDUDZiUGt6WGFQcFVXRDZxRy11RGM2dVVFaGNXMTVfenBrN1c2Wk5wQzNCU0tPM291Zl8yUGs5dXlKUnpvYkQzaGFMck4xUFVCMTJqbUp6bmlZZUlQdklzU3llMy1rSldoUlh6TkdiWmJ4VldxQVVGdEpRNGFUZEF6OVdUZGotS1ln?oc=5",
-      "source_name": "Yahoo Finance",
-      "published": "2026-11-01T07:08:04+00:00",
+      "id": "095eaed5147c9d10",
+      "title": "Targeting H-1B visa holders will cause severe US economic damage - Read Full Report Here",
+      "summary": "Targeting H-1B visa holders will cause severe US economic damage - Read Full Report Here Zoom News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYndsWlpQMC0xVHlyV0RUN2JYaVl4Y3ZiVU5ZNjVSUDhnU2Vfa2U0LTZvMmxVTGQ0YVBkQWxvMFFqaWIyN2VyTFJWTlhuRzc4eEZrUld0RXVoQnc1WE5aSzhhSFlwbWtlbllBazFkck9RZ3RpNndtVDc5LWE2SUFyQm0yajZNbmZoQ0hIc3ZPOUNzVUttMzVCX3VPYVdmMkt0QUxwYkV2VTBsQk4yaU4wVFVpaV9odHlva25hOFJWX3E0bVVjaEpnatIBzgFBVV95cUxQMGdhMEY1WE84Nk9ka1J1Y0JuaTZ4dlQxVnI1MVN3bEJKbWM5ZnIyd3BpMmh2bEU1OHVKWG1vUm9KS3N4ZDR2V05ENGViZS1UWXZiZUx6TmNOc2VENTBxN1JJZGVjUnROcXY4eW9JaUhKX05odEZ5NWJGVnp4RWh0c2k4eUplV1BGV1dNOXBCNFJfUWlDZGVaZUZ4cFR1Umk2UTNxYlZSeDVOUC16Q2s3c3NiZVlxWG5DTW10SHN0U2pyUEFmMlpoQnBydjI4QQ?oc=5",
+      "source_name": "Zoom News",
+      "published": "2026-11-01T03:44:50+00:00",
       "categories": [
-        "H-1B"
+        "H-1B",
+        "PERM"
+      ]
+    },
+    {
+      "id": "566d57f3492fd2af",
+      "title": "KU international students worry about Trump administration visa laws",
+      "summary": "KU international students worry about Trump administration visa laws The University Daily Kansan",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPemhiNm9qbjhrTm16MWhRclZVSW1valplY2ZaaE5uRGM5N0xaRlRyRGthZFV1T3BvUmtzNENfeTlWU3ZjNnlfdWp0TktCNThzUklhYnFCTHh1Y2N3RUhmSFppMEpkUmZqSWRKT1ZRYUxXRUw0RnNiUmkyYWRHYmVSaXdmSXJnVWhjN00xcXBCRFRkMl9HRTVnM1p6MUpzSEdzQlVBcnB6U2Q2ZVhlUVlZLVFCVXdOWW9SMVJveXFLMHI0SDhPLWp3UlFfdFB2WFFNNDdjNFU0Q0NKMEkybVc4?oc=5",
+      "source_name": "The University Daily Kansan",
+      "published": "2026-10-29T21:07:00+00:00",
+      "categories": [
+        "F-1 / OPT / CPT"
       ]
     },
     {
